@@ -1,0 +1,17 @@
+onnxruntime
+easyocr
+huggingface_hub[hf_xet]
+sentence_transformers 
+langchain-text-splitters
+faiss-cpu
+mistralai==0.4.2
+
+python-dotenv
+faiss-cpu
+langchain
+pypdf
+langchain-text-splitters
+PyYAML
+SQLAlchemy
+langchain_chroma
+langchain_huggingface

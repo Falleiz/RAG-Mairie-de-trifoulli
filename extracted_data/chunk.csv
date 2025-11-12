@@ -1,0 +1,2184 @@
+chunk,source,file_type
+"Catégorie: Administration
+Budget Alloué (en €): 500000
+Dépenses Réelles (en €): 480000
+Solde (en €): 20000",../inputs\budget\budget_2024.csv,.csv
+"Catégorie: Voirie
+Budget Alloué (en €): 750000
+Dépenses Réelles (en €): 700000
+Solde (en €): 50000",../inputs\budget\budget_2024.csv,.csv
+"Catégorie: Services Techniques
+Budget Alloué (en €): 600000
+Dépenses Réelles (en €): 550000
+Solde (en €): 50000",../inputs\budget\budget_2024.csv,.csv
+"Catégorie: Éducation
+Budget Alloué (en €): 1000000
+Dépenses Réelles (en €): 900000
+Solde (en €): 100000",../inputs\budget\budget_2024.csv,.csv
+"Catégorie: Culture
+Budget Alloué (en €): 400000
+Dépenses Réelles (en €): 350000
+Solde (en €): 50000",../inputs\budget\budget_2024.csv,.csv
+"Catégorie: Sécurité
+Budget Alloué (en €): 300000
+Dépenses Réelles (en €): 280000
+Solde (en €): 20000",../inputs\budget\budget_2024.csv,.csv
+"Catégorie: Divers
+Budget Alloué (en €): 200000
+Dépenses Réelles (en €): 150000
+Solde (en €): 50000",../inputs\budget\budget_2024.csv,.csv
+"Catégorie: Total
+Budget Alloué (en €): 3750000
+Dépenses Réelles (en €): 3410000
+Solde (en €): 340000",../inputs\budget\budget_2024.csv,.csv
+"Nom du projet: Rénovation de la voirie centrale
+Description: Refonte et réhabilitation des rues principales du centre-ville
+Date de lancement: 2023-09-01
+Budget alloué (en €): 750000",../inputs\projets\projets_2024.csv,.csv
+"Nom du projet: Modernisation de l'éclairage public
+Description: Remplacement des lampadaires défectueux et installation de LED
+Date de lancement: 2023-10-15
+Budget alloué (en €): 300000",../inputs\projets\projets_2024.csv,.csv
+"Nom du projet: Création du Centre Culturel Innovant
+Description: Construction d'un centre culturel pour promouvoir l'art local
+Date de lancement: 2024-01-20
+Budget alloué (en €): 1200000",../inputs\projets\projets_2024.csv,.csv
+"Nom du projet: Amélioration des espaces verts
+Description: Réaménagement des parcs et jardins municipaux
+Date de lancement: 2023-11-10
+Budget alloué (en €): 450000",../inputs\projets\projets_2024.csv,.csv
+"Nom du projet: Développement de l'internet municipal
+Description: Mise en place d'une connexion haut débit dans les bâtiments publics
+Date de lancement: 2024-03-05
+Budget alloué (en €): 200000",../inputs\projets\projets_2024.csv,.csv
+"Nom du projet: Rénovation de l'école primaire
+Description: Modernisation et extension des locaux de l'école primaire de la commune
+Date de lancement: 2023-08-20
+Budget alloué (en €): 650000",../inputs\projets\projets_2024.csv,.csv
+"Nom du projet: Création du Pôle Sportif Municipal
+Description: Construction d'un complexe sportif multifonctionnel
+Date de lancement: 2023-07-15
+Budget alloué (en €): 950000",../inputs\projets\projets_2024.csv,.csv
+"Nom du projet: Réaménagement de la place du Marché
+Description: Reconfiguration de l'espace public pour dynamiser le commerce local
+Date de lancement: 2023-10-05
+Budget alloué (en €): 500000",../inputs\projets\projets_2024.csv,.csv
+"Nom du projet: Installation d'un système de surveillance urbaine
+Description: Mise en place de caméras pour renforcer la sécurité publique
+Date de lancement: 2023-12-01
+Budget alloué (en €): 400000",../inputs\projets\projets_2024.csv,.csv
+"Nom du projet: Création d'un jardin communautaire
+Description: Aménagement d'un espace vert partagé pour encourager l'agriculture urbaine
+Date de lancement: 2024-04-10
+Budget alloué (en €): 150000",../inputs\projets\projets_2024.csv,.csv
+"Nom du projet: Développement de pistes cyclables
+Description: Création d'un réseau sécurisé de pistes cyclables dans toute la commune
+Date de lancement: 2023-09-15
+Budget alloué (en €): 350000",../inputs\projets\projets_2024.csv,.csv
+"Nom du projet: Modernisation du service de transport public
+Description: Mise à niveau et renouvellement des véhicules municipaux
+Date de lancement: 2024-02-20
+Budget alloué (en €): 800000",../inputs\projets\projets_2024.csv,.csv
+"Nom du projet: Installation de bornes de recharge électrique
+Description: Déploiement de stations de recharge pour véhicules électriques
+Date de lancement: 2024-05-05
+Budget alloué (en €): 250000",../inputs\projets\projets_2024.csv,.csv
+"Nom du projet: Création du Centre d'Innovation Numérique
+Description: Développement d'un incubateur pour startups et innovation technologique
+Date de lancement: 2024-03-10
+Budget alloué (en €): 1100000",../inputs\projets\projets_2024.csv,.csv
+"Nom du projet: Mise en place d'un système de tri sélectif avancé
+Description: Optimisation de la gestion des déchets par un système de tri intelligent
+Date de lancement: 2023-11-20
+Budget alloué (en €): 300000",../inputs\projets\projets_2024.csv,.csv
+"## Mairie de Triffouillis sur Loire Avis d'Information et Horaires d'Ouverture
+
+## I. Message d'Accueil
+
+## Chers
+
+<!-- image -->
+
+concitoyens,
+
+Nous avons le plaisir de vous accueillir sous l'égide de la bonne humeur et du sérieux nécessaire à l'exercice de nos fonctions. La Mairie de Triffouillis sur Loire vous invite à consulter les informations ci-après afin de mieux connaître nos services et modalités de fonctionnement.",../inputs\communication\Acceuil_affichage_Mairie de Triffouillis sur Loire.pdf,.pdf
+"Nous vous présentons, en tête d'affiche, notre maire officieux et attachant : Madame Pétillante Rigolade , qui, avec un sourire communicatif, veille à la bonne marche de notre commune. Son engagement, conjugué à l'expertise de nos équipes, vous assure une prise en charge rapide et efficace de vos demandes.
+
+## II. Horaires d'Ouverture et Contacts",../inputs\communication\Acceuil_affichage_Mairie de Triffouillis sur Loire.pdf,.pdf
+"## II. Horaires d'Ouverture et Contacts
+
+Afin de vous servir au mieux, notre mairie est ouverte selon des horaires fixes, adaptés aux besoins de chacun. Vous trouverez ci-dessous un tableau récapitulatif des horaires de nos services. Pour toute information complémentaire, n'hésitez pas à nous contacter au 01 23 45 67 89 .",../inputs\communication\Acceuil_affichage_Mairie de Triffouillis sur Loire.pdf,.pdf
+"| Service                   | Lundi                      | Mardi                      | Mercredi               | Jeudi                          | Vendredi               | Samedi       | Dimanche   |
+|---------------------------|----------------------------|----------------------------|------------------------|--------------------------------|------------------------|--------------|------------|",../inputs\communication\Acceuil_affichage_Mairie de Triffouillis sur Loire.pdf,.pdf
+"| Accueil et Administration | 8h30 - 12h00               | 8h30 12h00                 | - 8h30 12h00           | - 8h30 - 12h00                 | 8h30 12h00             | - Fermé      | Fermé      |
+| Services Techniques       | 8h30 - 12h00 13h30 - 16h30 | 8h30 - 12h00 13h30 - 16h30 | 8h30 12h00 13h30 16h30 | - - 8h30 - 12h00 13h30 - 16h30 | 8h30 12h00 13h30 16h30 | - - Fermé    | Fermé      |",../inputs\communication\Acceuil_affichage_Mairie de Triffouillis sur Loire.pdf,.pdf
+| Ramassage des Ordures     | 7h00 - 10h00               | 7h00 - 10h00               | 7h00 10h00             | - 7h00 - 10h00                 | 7h00 10h00             | - 8h00 11h00 | - Fermé    |,../inputs\communication\Acceuil_affichage_Mairie de Triffouillis sur Loire.pdf,.pdf
+"Remarque : Les horaires sont susceptibles d'être modifiés en cas de fêtes locales ou d'évènements exceptionnels. Pensez à consulter notre site internet ou à nous appeler pour confirmation.
+
+## III. Organisation et Coordination des Services
+
+## 1. Accueil et Administration",../inputs\communication\Acceuil_affichage_Mairie de Triffouillis sur Loire.pdf,.pdf
+"## 1. Accueil et Administration
+
+Notre  service  d'accueil  est  conçu  pour  offrir  aux  administrés  un  interlocuteur  unique capable de répondre à leurs questions relatives aux démarches administratives, à l'état civil, et aux diverses formalités nécessaires. Les agents municipaux, formés et souriants, vous accompagnent avec rigueur et bienveillance.
+
+## 2. Équipes Techniques et Voirie",../inputs\communication\Acceuil_affichage_Mairie de Triffouillis sur Loire.pdf,.pdf
+"## 2. Équipes Techniques et Voirie
+
+Les équipes techniques de la mairie, dirigées par le Chef de Service de la Voirie, assurent l'entretien  des  voies  publiques,  le  suivi  des  travaux  de  réfection  et  le  maintien  d'un environnement  urbain  sécuritaire.  Grâce  à  leur  intervention  régulière,  les  rues  de Triffouillis sur Loire bénéficient d'un entretien exemplaire, garantissant fluidité et sécurité pour tous les usagers.
+
+## · Missions principales :",../inputs\communication\Acceuil_affichage_Mairie de Triffouillis sur Loire.pdf,.pdf
+"## · Missions principales :
+
+- o Entretien quotidien des trottoirs et voiries.
+- o Gestion des petits travaux d'urbanisme et de réparation.
+- o Coordination avec les services d'urbanisme pour les projets d'aménagement.
+
+## 3. Service de Ramassage des Ordures",../inputs\communication\Acceuil_affichage_Mairie de Triffouillis sur Loire.pdf,.pdf
+"## 3. Service de Ramassage des Ordures
+
+Le service de ramassage des ordures, géré en collaboration avec nos prestataires locaux, est  assuré  dans  le  strict  respect  des  normes  environnementales  et  de  propreté.  Ce service s'appuie sur des équipes dynamiques et formées aux gestes écologiques pour optimiser la collecte et le traitement des déchets.
+
+## · Points forts :",../inputs\communication\Acceuil_affichage_Mairie de Triffouillis sur Loire.pdf,.pdf
+"## · Points forts :
+
+- o Une collecte organisée sur un calendrier précis.
+- o La mise à disposition de bacs adaptés à chaque type de déchet.
+- o Un suivi rigoureux pour garantir l'hygiène et la salubrité publique.
+
+## IV. Dispositions Diverses et Conseils Pratiques
+
+## · Sécurité
+
+et
+
+Propreté
+
+:",../inputs\communication\Acceuil_affichage_Mairie de Triffouillis sur Loire.pdf,.pdf
+"## · Sécurité
+
+et
+
+Propreté
+
+:
+
+La mairie rappelle à tous l'importance de respecter les consignes de sécurité et d'hygiène. Nos équipes veillent à la propreté des espaces publics et se tiennent à votre disposition pour signaler tout dysfonctionnement ou anomalie.
+
+<!-- image -->
+
+## · Accessibilité
+
+<!-- image -->",../inputs\communication\Acceuil_affichage_Mairie de Triffouillis sur Loire.pdf,.pdf
+"<!-- image -->
+
+## · Accessibilité
+
+<!-- image -->
+
+Dans une démarche inclusive, la mairie met un point d'honneur à faciliter l'accès de ses services à toutes les personnes, notamment via l'installation de dispositifs adaptés aux personnes à mobilité réduite.
+
+## · Communication et Transparence",../inputs\communication\Acceuil_affichage_Mairie de Triffouillis sur Loire.pdf,.pdf
+"## · Communication et Transparence
+
+Afin  de  maintenir  une  transparence  totale  sur  nos  activités,  des  réunions publiques sont régulièrement organisées. Les dates et lieux de  ces  rencontres sont  affichés  sur  le  panneau  d'information  municipal  ainsi  que  sur  notre  site officiel.
+
+## · Participation Citoyenne",../inputs\communication\Acceuil_affichage_Mairie de Triffouillis sur Loire.pdf,.pdf
+"## · Participation Citoyenne
+
+La Mairie de Triffouillis sur Loire encourage la participation active des citoyens. Vos suggestions, idées et remarques sont les bienvenues afin d'améliorer en continu nos services. Un formulaire de contact est disponible au service d'accueil et sur le site internet.",../inputs\communication\Acceuil_affichage_Mairie de Triffouillis sur Loire.pdf,.pdf
+"La Mairie de Triffouillis sur Loire, sous la direction joviale de Madame Pétillante Rigolade, s'engage à fournir un service public de qualité, fondé sur l'écoute, l'efficacité et la bonne humeur. Nous vous invitons à consulter régulièrement nos horaires d'ouverture et à nous contacter  pour  toute  question  ou  demande  d'assistance.  Votre  participation  active contribue à la vie et au dynamisme de notre commune.",../inputs\communication\Acceuil_affichage_Mairie de Triffouillis sur Loire.pdf,.pdf
+"Pour toute information supplémentaire ou pour déposer une suggestion, n'hésitez pas à joindre notre service d'accueil au 01 23 45 67 89 ou à visiter notre site internet.
+
+## Fait à Triffo uillis sur Loire, Le Conseil Municipal
+
+Ce  document  est  affiché  pour  la  bonne  information  de  tous  les  administrés  et  reste affiché pendant toute la durée des horaires indiqués ci-dessus.
+
+Document factice - Version 1.0 - Révisé le 04-02-2025",../inputs\communication\Acceuil_affichage_Mairie de Triffouillis sur Loire.pdf,.pdf
+"**1. Demande d'information sur l'entretien de la voirie** Madame, Monsieur,",../inputs\demandes citoyennes\Demande d'information sur l'entretien de la voirie.docx,.docx
+"Je me permets de vous écrire afin d’obtenir des renseignements détaillés sur l’entretien de la voirie dans notre quartier, notamment en ce qui concerne les horaires de passage des équipes techniques et les modalités de ramassage des ordures.
+Je souhaite mieux comprendre le planning d’intervention et les éventuelles perturbations prévues dans la semaine à venir. Pourriez-vous, s’il vous plaît, me communiquer ces informations ou m’indiquer où je pourrais les consulter ?",../inputs\demandes citoyennes\Demande d'information sur l'entretien de la voirie.docx,.docx
+"Dans l’attente de votre réponse, je vous remercie par avance pour votre aide et votre disponibilité.
+
+Cordialement,
+Jean Jean",../inputs\demandes citoyennes\Demande d'information sur l'entretien de la voirie.docx,.docx
+"Demande de participation à la réunion municipale sur la revitalisation du centre-ville
+
+Madame, Monsieur,
+
+En tant que concitoyen(ne) impliqué(e) dans la vie de notre commune, je souhaite vivement participer à la prochaine réunion municipale consacrée au projet de revitalisation du centre-ville.
+Je vous saurais gré de bien vouloir m’informer des modalités d’inscription, de la date et du lieu de cette rencontre, afin de pouvoir contribuer activement aux discussions et apporter mes idées.",../inputs\demandes citoyennes\Demande de participation à la réunion municipale sur la revitalisation du centre-ville.docx,.docx
+"Je vous remercie pour l’attention portée à ma demande et vous prie d’agréer, Madame, Monsieur, l’expression de mes salutations distinguées.
+
+Jean Michmuch",../inputs\demandes citoyennes\Demande de participation à la réunion municipale sur la revitalisation du centre-ville.docx,.docx
+"**2. Signalement et demande d'intervention pour un éclairage public défectueux** Madame, Monsieur,",../inputs\demandes citoyennes\Signalement et demande d'intervention pour un éclairage public défectueux.docx,.docx
+"Je vous contacte pour signaler un dysfonctionnement constaté au niveau de l’éclairage public situé au coin de la rue des Érables et de l’avenue du Centre. Ce problème nuit à la sécurité des habitants et des passants, surtout en soirée.
+Je sollicite ainsi l’intervention d’une équipe technique pour une réparation dans les meilleurs délais.
+Je vous remercie pour votre réactivité et reste à votre disposition pour tout complément d’information.
+
+Bien cordialement,
+Val Jean",../inputs\demandes citoyennes\Signalement et demande d'intervention pour un éclairage public défectueux.docx,.docx
+"**Festival des Rires et des Blagues**
+
+**Date :** 10 février 2024 **Lieu :** Parc de la Bonne Humeur, Triffouillis-sur-Loire
+
+**Exposants :**
+
+- **Les Clowns du Coin** – Troupe de clowns et humoristes locaux
+- **La Boîte à Rires** – Stand interactif de blagues et devinettes
+- **Impro Burlesque** – Compagnie d’improvisation théâtrale
+
+**Activités prévues :**",../inputs\evenements\Festival des Rires et des Blagues.docx,.docx
+"**Activités prévues :**
+
+- Spectacles de rue et scènes d’improvisation comique
+- Concours de blagues avec récompenses humoristiques
+- Ateliers de clown et initiation à l’art du slapstick
+- Distribution de confiseries et goodies rigolos
+- Espace photo déguisé pour immortaliser des moments hilarants",../inputs\evenements\Festival des Rires et des Blagues.docx,.docx
+"Fête des Saveurs Insolites
+
+Date : 5 avril 2024
+Lieu : Jardin des Délices, Triffouillis-sur-Loire
+
+Exposants :
+
+- Epicurieux – Stand de mets fusion surprenants
+- Les Papilles en Folie – Dégustation de plats et recettes inventives
+- Bulle de Goût – Atelier de création de boissons originales et cocktails sans alcool
+
+Activités prévues :",../inputs\evenements\Fête des Saveurs Insolites.docx,.docx
+"Activités prévues :
+
+- Dégustations et démonstrations culinaires en live
+- Ateliers de mixologie et créations de recettes insolites
+- Animations ludiques avec quiz gastronomique et concours de cuisine
+- Stands interactifs où les visiteurs créent leur propre plat à partir d’ingrédients mystères
+- Rencontre avec des chefs locaux et discussions sur l’innovation culinaire",../inputs\evenements\Fête des Saveurs Insolites.docx,.docx
+"**Journée de l’Insolence Créative**
+
+**Date :** 18 mai 2024 **Lieu :** Esplanade de la Créativité, Triffouillis-sur-Loire
+
+**Exposants :**
+
+- **Les Artisans Déjantés** – Créations d’objets design et humoristiques
+- **Innova’Folie** – Exposition d’inventions décalées et prototypes farfelus
+- **Créa’Tonic** – Stand de designers et artistes en herbe
+
+**Activités prévues :**",../inputs\evenements\Journée de l’Insolence Créative.docx,.docx
+"**Activités prévues :**
+
+- Expositions d’art et d’objets insolites accompagnées d’explications ludiques
+- Ateliers de création collaborative où chacun peut proposer son idée décalée
+- Concours du projet le plus original avec vote du public et remise de prix fantaisistes
+- Performances de danse, théâtre et musique décalée sur scène ouverte
+- Espaces interactifs pour tester des innovations techniques et artistiques",../inputs\evenements\Journée de l’Insolence Créative.docx,.docx
+"Le Carnaval des Objets Oubliés
+
+Date : 15 janvier 2024
+Lieu : Centre Culturel de Triffouillis-sur-Loire
+
+Exposants :
+
+- Les Trésors du Grenier – Exposition d’objets vintage et insolites
+- Le Comptoir des Curiosités – Vente de bibelots surprenants
+- Objets Insolites &amp; Co. – Créations artisanales hors du commun
+
+Activités prévues :",../inputs\evenements\Le Carnaval des Objets Oubliés.docx,.docx
+"Activités prévues :
+
+- Parcours interactif à travers des installations originales
+- Ateliers de recyclage créatif et création d’objets personnalisés
+- Stands de restauration proposant des encas réinventés (chips de légumes, smoothies inattendus)
+- Animations pour petits et grands avec spectacles de marionnettes et magie légère",../inputs\evenements\Le Carnaval des Objets Oubliés.docx,.docx
+"## Mairie deTriffouillis-sur-Loire OrganisationduMarchedeNoel2023
+
+<!-- image -->
+
+La commune deTriffouillis-sur-Loireestheureuse d'annoncerledition2023deson celebre Marche de Noel! Cette annee encore,petits et grands pourront se plonger dans la magiedesfetesen decouvrant denombreuxexposantsetanimations festives.
+
+<!-- image -->
+
+<!-- image -->
+
+<!-- image -->
+
+<!-- image -->
+
+<!-- image -->
+
+Date:Samedi 16etdimanche17decembre2023
+
+Lieu:Place du Grand Chene
+
+Horaires:10h00-20h00
+
+## Les exposantspresents:",../inputs\evenements\marche_noel_trifouillis_2023.png,.png
+"Horaires:10h00-20h00
+
+## Les exposantspresents:
+
+<!-- image -->",../inputs\evenements\marche_noel_trifouillis_2023.png,.png
+"- LesDelicesde Tante Gertrude-Specialites alsaciennesetpains d'epices maison
+- LaFabrique duPereNoel-Jouetsenboisfaitsmain
+- Vins &amp; Saveurs d'Hiver-Degustation devins chauds etproduits du terroir
+- LesLutinsdu Crochet-Bonnets,echarpesetpulls tricotes avec amour
+- LaForge desRennes-Sculpturesmetalliquesetdecorations artisanales
+- Choco-Miam-Fontaine a chocolatet friandisesgourmandes
+- Le Fromage qui Chante-Selection de fromages affines avecdemonstration musicale",../inputs\evenements\marche_noel_trifouillis_2023.png,.png
+"- La Boutique des Licornes deNoel-Cadeauxfeeriques et accessoires enchantes
+- MonsieurMarcel&amp;sesSaucissons-Unegamme de charcuteriesatomberpar terre
+- LesBougiesMagiquesdeMamiePaulette-Bougiesparfumeeset personnalisables
+- Le Bric-a-Brac du Pere Fouettard-Objetsinsolites etantiquitesfestives",../inputs\evenements\marche_noel_trifouillis_2023.png,.png
+"<!-- image -->
+
+<!-- image -->
+
+<!-- image -->
+
+<!-- image -->
+
+<!-- image -->
+
+## Animations:
+
+- Visite duPereNoeletdistribution debonbons
+- Atelier de decoration debiscuitspourlesenfants
+- Spectacle dejongleurs etmusiciens
+- Tombola deNoelavecdenombreuxlotsagagner
+
+<!-- image -->
+
+<!-- image -->
+
+<!-- image -->
+
+<!-- image -->
+
+Veneznombreuxpartagerunmomentchaleureuxet festifau coeurdeTriffouillis-surLoire!
+
+<!-- image -->",../inputs\evenements\marche_noel_trifouillis_2023.png,.png
+"**Nuit des Arts Urbains**
+
+**Date : 25 mars 2024
+Lieu : Place du Marché, Triffouillis-sur-Loire**
+
+**Exposants :**
+
+- **Graff’Art – Collectif de graffeurs locaux**
+- **MurMures – Artistes plasticiens urbains**
+- **Street Style – Exposition de photos et installations multimédias**
+
+**Activités prévues :**",../inputs\evenements\Nuit des Arts Urbains.docx,.docx
+"**Activités prévues :**
+
+- **Expositions de graffitis et fresques murales en direct**
+- **Ateliers participatifs de street art pour tous les âges**
+- **Concerts et performances de musiciens de rue**
+- **Conférences et discussions sur l’art urbain et la culture de la ville**
+- **Parcours nocturne pour découvrir les œuvres illuminées**",../inputs\evenements\Nuit des Arts Urbains.docx,.docx
+"## Bulletin Municipal - Sécurité et Voirie
+
+Triffouillis-sur-Loire, 22 octobre 2023
+
+Afin d'améliorer la sécurité routière et la qualité de vie de nos concitoyens, la Mairie de Triffouillis-sur-Loire a lancé ce mois-ci une opération de maintenance renforcée sur les voies principales de la commune.
+
+## Actions menées :",../inputs\intances\Bulletin Municipal – Intervention Technique et Sécurité Routière.pdf,.pdf
+"- Entretien des voiries : Une équipe spécialisée a été déployée pour rénover les trottoirs et les passages piétons, avec une attention particulière aux zones à forte circulation.
+- Réparation des éclairages publics : Plusieurs lampadaires défectueux ont été remplacés, garantissant une meilleure visibilité lors des déplacements nocturnes.",../inputs\intances\Bulletin Municipal – Intervention Technique et Sécurité Routière.pdf,.pdf
+"- Sécurisation des intersections : Installation de panneaux de signalisation supplémentaires et mise en place de ralentisseurs dans les zones sensibles, afin de réduire le risque d'accidents.",../inputs\intances\Bulletin Municipal – Intervention Technique et Sécurité Routière.pdf,.pdf
+"Le dispositif, financé par le budget de fonctionnement municipal, a été mis en œuvre en concertation avec les services techniques et les forces de l'ordre. La mairie invite les habitants à signaler tout dysfonctionnement ou anomalie via l'application mobile dédiée ou en se rendant directement au service d'accueil de la Mairie.",../inputs\intances\Bulletin Municipal – Intervention Technique et Sécurité Routière.pdf,.pdf
+"Ces mesures, déjà appréciées par de nombreux citoyens, visent à assurer un environnement urbain sécurisé et agréable pour tous. La Mairie rappelle que la sécurité routière reste une priorité et que chaque signalement contribue à l'amélioration continue de nos infrastructures.",../inputs\intances\Bulletin Municipal – Intervention Technique et Sécurité Routière.pdf,.pdf
+"## Bulletin Municipal - Marché de Noël 2023
+
+Triffouillis-sur-Loire, 10 décembre 2023
+
+La commune de Triffouillis-sur-Loire est en effervescence à l'approche de son Marché de Noël 2023. L'événement se tiendra les 16 et 17 décembre sur la Place du Grand Chêne, avec des animations variées et une ambiance chaleureuse garantie pour petits et grands.
+
+## Points forts de l'édition 2023 :",../inputs\intances\Bulletin Municipal – Marché de Noël 2023.pdf,.pdf
+"- Ambiance festive : Musique, décorations lumineuses et animations pour enfants ponctueront la programmation.
+- Exposants locaux : Les visiteurs pourront découvrir ""Les Délices de Tante Gertrude"" avec ses célèbres pains d'épices, ""La Fabrique du Père Noël"" proposant des jouets en bois artisanaux, et ""Le Fromage qui Chante"", un stand insolite alliant dégustation de fromages et musique.
+- Animations : Atelier de décoration de biscuits, visite du Père Noël et tombola avec de nombreux lots.",../inputs\intances\Bulletin Municipal – Marché de Noël 2023.pdf,.pdf
+"Les organisateurs invitent les habitants à venir nombreux profiter de ce moment de partage et d'échanges, qui illustre parfaitement l'esprit convivial de notre commune. Un dispositif de sécurité renforcé sera mis en place pour garantir le bon déroulement de l'événement.
+
+Pour plus d'informations, rendez-vous sur le site officiel de la mairie ou contactez le service communication de Triffouillis-sur-Loire.",../inputs\intances\Bulletin Municipal – Marché de Noël 2023.pdf,.pdf
+"## Bulletin Municipal - Réunion Publique Triffouillis-sur-Loire, 5 novembre 2023
+
+Dans le cadre d'un projet ambitieux de revitalisation du centre-ville, la Mairie de Triffouillis-sur-Loire organise une réunion publique le 12 novembre 2023 à 18h30 à la salle des fêtes. Cette rencontre est destinée à associer les citoyens aux décisions qui impacteront directement l'évolution de notre cadre de vie.
+
+## Ordre du jour :",../inputs\intances\Bulletin Municipal – Réunion Publique.pdf,.pdf
+"## Ordre du jour :
+
+- Présentation du projet de réaménagement et des nouvelles infrastructures prévues.
+- Échanges sur les propositions des habitants concernant la sécurité, l'accessibilité et la mise en valeur du patrimoine local.
+- Discussion sur les mesures environnementales à intégrer, notamment l'optimisation de la gestion des espaces verts.",../inputs\intances\Bulletin Municipal – Réunion Publique.pdf,.pdf
+Les élus souhaitent recueillir vos idées et suggestions afin de faire de ce projet une réussite collective. Des supports visuels et des maquettes interactives seront présentés pour illustrer les différentes pistes envisagées. Un temps de questions-réponses est prévu pour que chaque citoyen puisse s'exprimer.,../inputs\intances\Bulletin Municipal – Réunion Publique.pdf,.pdf
+"Nous encourageons vivement votre participation active, car votre avis est essentiel pour façonner l'avenir de notre centre-ville. Pour s'inscrire à la réunion ou obtenir plus de renseignements, contactez le service municipal dédié.",../inputs\intances\Bulletin Municipal – Réunion Publique.pdf,.pdf
+"## Procès-verbal de la Réunion du Conseil Municipal - 5 octobre 2023
+
+Lieu : Salle du Conseil Municipal, Mairie de Triffouillis-sur-Loire Présents : Mme Dupont (Maire), M. Martin, Mme Legrand, M. Petit, Mme Durand, M. Laurent Absents : M. Simon Ordre du jour :
+
+1. Rénovation de la voirie centrale
+2. Modernisation de l'éclairage public
+3. Plan d'actions pour la sécurité routière
+
+## Déroulement de la réunion :",../inputs\intances\PV_05102023.pdf,.pdf
+"- Point 1 - Rénovation de la voirie centrale :
+- Après présentation par le service technique, il a été décidé de lancer un appel d'offres pour la réhabilitation des rues principales. Le budget prévisionnel est de 750 000 €.
+- Décision : Mandater une commission technique pour évaluer les propositions et présenter un rapport lors de la prochaine réunion.
+- Point 2 - Modernisation de l'éclairage public :",../inputs\intances\PV_05102023.pdf,.pdf
+"- Point 2 - Modernisation de l'éclairage public :
+- Le service des travaux a présenté le projet de remplacement des lampadaires par des LED économes en énergie.
+- Décision : Validation du projet avec un budget de 300 000 € et mise en place d'un planning d'installation dès novembre 2023.
+- Point 3 - Plan d'actions pour la sécurité routière :
+- Discussion sur l'installation de ralentisseurs et de panneaux de signalisation dans les zones à risque.",../inputs\intances\PV_05102023.pdf,.pdf
+- Décision : Créer un groupe de travail avec les représentants de la police municipale et les services techniques pour élaborer un plan d'action détaillé.,../inputs\intances\PV_05102023.pdf,.pdf
+"## Actions à venir :
+
+- Rédaction du rapport d'appel d'offres pour la voirie (M. Martin)
+- Préparation d'un planning détaillé pour l'éclairage public (Mme Legrand)
+- Organisation d'une rencontre avec la police municipale pour le plan de sécurité (Mme Durand)
+
+Clôture de la séance : La réunion s'est terminée à 18h30. La prochaine réunion est fixée au 20 octobre 2023.",../inputs\intances\PV_05102023.pdf,.pdf
+"## Procès-verbal de la Réunion du Conseil Municipal - 15 novembre 2023
+
+Lieu :
+
+Salle des Fêtes, Mairie de Triffouillis-sur-Loire
+
+Présents :
+
+Mme Dupont (Maire), M. Martin, Mme Legrand, M. Petit, M. Girard, Mme
+
+Blanc
+
+Absents :
+
+Aucun
+
+## Ordre du jour :
+
+1. Avancement du projet de Centre Culturel Innovant
+2. Revitalisation du centre-ville
+3. Questions diverses
+
+## Déroulement de la réunion :",../inputs\intances\PV_15112023.pdf,.pdf
+"## Déroulement de la réunion :
+
+- Point 1 - Centre Culturel Innovant :
+- Le chef de projet a présenté les dernières avancées concernant la construction d'un nouveau centre culturel destiné à promouvoir l'art local. Les plans ont été approuvés en séance.
+
+Décision : Lancer les démarches administratives et préparer le dossier pour l'obtention des financements complémentaires, avec une échéance de début 2024.",../inputs\intances\PV_15112023.pdf,.pdf
+"- Point 2 - Revitalisation du centre-ville :
+- Après un exposé sur la réaménagement de la place du Marché, les membres du conseil ont débattu des propositions visant à dynamiser l'activité commerciale. Décision : Adopter un plan de réaménagement incluant l'installation de nouvelles enseignes et un espace piétonnier élargi. Un comité mixte sera constitué pour piloter le projet.
+- Point 3 - Questions diverses :",../inputs\intances\PV_15112023.pdf,.pdf
+"Plusieurs intervenants ont évoqué la nécessité de renforcer la sécurité autour des établissements scolaires et de moderniser les espaces verts.
+
+Décision : Un plan d'amélioration sera présenté lors de la prochaine réunion, en tenant compte des suggestions recueillies.
+
+## Actions à venir :",../inputs\intances\PV_15112023.pdf,.pdf
+"## Actions à venir :
+
+- Préparation du dossier de financement pour le Centre Culturel Innovant (M. Petit)
+- Constitution du comité pour la revitalisation du centre-ville (Mme Legrand)
+- Élaboration d'un plan de sécurité pour les abords scolaires (M. Girard)
+
+Clôture de la séance : La séance s'est conclue à 19h00. La prochaine réunion est prévue pour le 30 novembre 2023.",../inputs\intances\PV_15112023.pdf,.pdf
+"## Procès-verbal de la Réunion du Conseil Municipal - 20 décembre 2023
+
+Lieu :
+
+Salle de Conférence, Mairie de Triffouillis-sur-Loire
+
+Présents :
+
+Mme Dupont (Maire), M. Martin, Mme Legrand, M. Petit, Mme Durand, M.
+
+Laurent, M. Renault
+
+Absents :
+
+M. Simon, Mme Blanc
+
+## Ordre du jour :
+
+1. Bilan des projets en cours
+2. Mise en place d'un nouveau système de tri sélectif
+3. Organisation d'un événement festif de fin d'année
+
+## Déroulement de la réunion :
+
+- Point 1 - Bilan des projets en cours :",../inputs\intances\PV_20122023.pdf,.pdf
+"- Point 1 - Bilan des projets en cours :
+
+Chaque responsable de projet a présenté un rapport succinct sur l'état d'avancement de leurs actions (voirie, éclairage, espaces verts). Décision : Confirmer les budgets alloués et fixer de nouveaux jalons pour le début de l'année prochaine.",../inputs\intances\PV_20122023.pdf,.pdf
+"- Point 2 - Nouveau système de tri sélectif : Une proposition a été soumise pour moderniser le tri des déchets via l'installation de nouvelles bornes interactives. Décision : Approuver l'achat et l'installation de 50 bornes avec un budget de 300
+
+000 €, à déployer sur les six prochains mois.",../inputs\intances\PV_20122023.pdf,.pdf
+"000 €, à déployer sur les six prochains mois.
+
+- Point 3 - Événement festif de fin d'année :
+- Discussions sur l'organisation d'un événement pour célébrer la fin d'année et renforcer la cohésion citoyenne, avec des animations musicales et des stands de produits locaux.
+
+Décision : Confirmer l'organisation de l'événement pour le 31 décembre 2023 et déléguer la coordination à un comité spécial composé de membres du conseil et d'associations locales.
+
+## Actions à venir :",../inputs\intances\PV_20122023.pdf,.pdf
+"## Actions à venir :
+
+- Élaboration d'un calendrier détaillé pour les projets en cours (M. Martin)
+- Lancement de l'appel d'offres pour les bornes de tri (Mme Durand)
+- Coordination avec les associations pour l'événement festif (M. Renault)
+
+Clôture de la séance : La réunion s'est terminée à 20h00. La prochaine réunion de suivi est prévue pour le 15 janvier 2024.
+
+- •",../inputs\intances\PV_20122023.pdf,.pdf
+"## RÈGLEMENT MUNICIPAL COMMUNE DE TRIFOUILLIS-SUR-LOIRE
+
+![Logo de la commune]
+
+## PRÉAMBULE",../inputs\intances\RÈGLEMENT MUNICIPAL.pdf,.pdf
+"Le présent règlement municipal de la commune de Trifouillis-sur-Loire, établi conformément aux dispositions du Code Général des Collectivités Territoriales, notamment ses articles L.2212-1 et suivants, définit les règles essentielles régissant la vie communale. Il vise à garantir l'ordre public, la sécurité, la tranquillité et la salubrité sur l'ensemble du territoire communal",../inputs\intances\RÈGLEMENT MUNICIPAL.pdf,.pdf
+". Ce règlement, délibéré et approuvé par le Conseil Municipal lors de sa séance du 15 décembre 2024, s'applique à tous les habitants, visiteurs et usagers de la commune de Trifouillis-sur-Loire",../inputs\intances\RÈGLEMENT MUNICIPAL.pdf,.pdf
+". Considérant qu'il appartient au Maire de prendre toutes les mesures nécessaires pour assurer le bon ordre, la sécurité et la salubrité publiques dans sa commune ; Considérant la nécessité de fixer par un texte unique les règles générales applicables sur le territoire communal, sans préjudice des règlements particuliers qui peuvent être établis pour certaines activités ou certains espaces ; Le présent règlement a pour objet d'assurer un cadre de vie harmonieux pour l'ensemble des administrés, dans le",../inputs\intances\RÈGLEMENT MUNICIPAL.pdf,.pdf
+"de vie harmonieux pour l'ensemble des administrés, dans le respect des libertés individuelles et collectives.",../inputs\intances\RÈGLEMENT MUNICIPAL.pdf,.pdf
+"## SOMMAIRE TITRE I : ADMINISTRATION GÉNÉRALE
+
+- Article 1 : Mairie et services municipaux
+- Article 2 : Conseil municipal
+- Article 3 : Information des citoyens
+- Article 4 : État civil et formalités administratives
+- Article 5 : Cérémonies et protocole
+
+## TITRE II : ORDRE PUBLIC ET SÉCURITÉ",../inputs\intances\RÈGLEMENT MUNICIPAL.pdf,.pdf
+"## TITRE II : ORDRE PUBLIC ET SÉCURITÉ
+
+- Article 6 : Tranquillité publique
+- Article 7 : Circulation et stationnement
+- Article 8 : Salubrité publique
+- Article 9 : Police municipale
+- Article 10 : Animaux
+- Article 11 : Débits de boissons et établissements recevant du public
+- Article 12 : Sécurité des bâtiments et constructions
+
+## TITRE III : URBANISME ET ENVIRONNEMENT",../inputs\intances\RÈGLEMENT MUNICIPAL.pdf,.pdf
+"## TITRE III : URBANISME ET ENVIRONNEMENT
+
+- Article 13 : Règles d'urbanisme
+- Article 14 : Entretien des propriétés
+- Article 15 : Protection de l'environnement
+- Article 16 : Gestion des eaux
+- Article 17 : Patrimoine communal
+- Article 18 : Espaces verts et fleurissement
+
+## TITRE IV : VIE SOCIALE ET CULTURELLE",../inputs\intances\RÈGLEMENT MUNICIPAL.pdf,.pdf
+"## TITRE IV : VIE SOCIALE ET CULTURELLE
+
+- Article 19 : Équipements publics
+- Article 20 : Manifestations et événements
+- Article 21 : Vie scolaire
+- Article 22 : Vie associative
+- Article 23 : Activités sportives
+- Article 24 : Tourisme et patrimoine
+
+## TITRE V : ÉCONOMIE LOCALE
+
+- Article 25 : Commerces et entreprises
+- Article 26 : Marchés et foires
+- Article 27 : Agriculture et viticulture
+- Article 28 : Artisanat et métiers d'art
+
+## TITRE VI : SANCTIONS ET DISPOSITIONS FINALES",../inputs\intances\RÈGLEMENT MUNICIPAL.pdf,.pdf
+"## TITRE VI : SANCTIONS ET DISPOSITIONS FINALES
+
+- Article 29 : Sanctions
+- Article 30 : Application du règlement
+- Article 31 : Recours
+- Article 32 : Publication et affichage
+
+## TITRE I : ADMINISTRATION GÉNÉRALE
+
+## Article 1 : Mairie et services municipaux
+
+1.1 La mairie de Trifouillis-sur-Loire est située Place de la République. Elle est ouverte au public du lundi au vendredi de 9h00 à 12h00 et de 14h00 à 17h00, ainsi que le samedi de 9h00 à 12h00.
+
+1.2 Les services municipaux comprennent :",../inputs\intances\RÈGLEMENT MUNICIPAL.pdf,.pdf
+"1.2 Les services municipaux comprennent :
+
+- Service d'état civil et formalités administratives
+- Service d'urbanisme et d'aménagement du territoire
+- Service technique et entretien des espaces publics
+- Police municipale
+- Centre communal d'action sociale (CCAS)
+- Bibliothèque municipale et médiathèque
+- Service des sports et de la vie associative
+- Service éducation et jeunesse
+- Service culture et patrimoine
+- Service développement économique et touristique
+- Service communication",../inputs\intances\RÈGLEMENT MUNICIPAL.pdf,.pdf
+1.3 Toute demande administrative doit être adressée par écrit à Monsieur le Maire ou déposée directement auprès du service concerné. 1.4 Les demandes de rendez-vous avec Monsieur le Maire ou les adjoints doivent être formulées par écrit en précisant l'objet de la demande. Les élus reçoivent sur rendezvous selon leurs disponibilités et leurs délégations. 1.5 Les services municipaux sont placés sous l'autorité du Directeur Général des Services qui assure la coordination administrative de la commune,../inputs\intances\RÈGLEMENT MUNICIPAL.pdf,.pdf
+". 1.6 Le standard téléphonique de la mairie est accessible aux heures d'ouverture. En dehors de ces horaires, un répondeur enregistre les messages qui sont traités dès la réouverture des services. 1.7 Les démarches en ligne sont accessibles 24h/24 sur le site internet de la commune www.trifouillis-sur-loire.fr.",../inputs\intances\RÈGLEMENT MUNICIPAL.pdf,.pdf
+## Article 2 : Conseil municipal,../inputs\intances\RÈGLEMENT MUNICIPAL.pdf,.pdf
+2.1 Le conseil municipal se réunit au moins une fois par trimestre dans la salle du conseil de la mairie. Le calendrier prévisionnel des séances est établi semestriellement et communiqué aux habitants. 2.2 Les séances du conseil municipal sont publiques sauf décision contraire prise à la majorité absolue des membres présents. Le public doit observer le silence durant toute la séance et s'abstenir de toute marque d'approbation ou de désapprobation,../inputs\intances\RÈGLEMENT MUNICIPAL.pdf,.pdf
+". 2.3 L'ordre du jour des séances est affiché à la mairie et publié sur le site internet de la commune au moins 5 jours avant la tenue du conseil. 2.4 Les procès-verbaux des séances sont consultables en mairie après leur approbation par le conseil municipal et sur le site internet de la commune. 2.5 Les commissions municipales, au nombre de huit, se réunissent régulièrement pour préparer les dossiers qui seront soumis au conseil municipal :",../inputs\intances\RÈGLEMENT MUNICIPAL.pdf,.pdf
+"- Commission finances et administration générale
+- Commission urbanisme et travaux
+- Commission environnement et développement durable
+- Commission éducation et jeunesse
+- Commission culture et patrimoine
+- Commission sport et vie associative
+- Commission action sociale et solidarité
+- Commission développement économique et tourisme",../inputs\intances\RÈGLEMENT MUNICIPAL.pdf,.pdf
+"2.6 Le Conseil Municipal des Jeunes (CMJ), composé d'élèves des écoles primaires et du collège de la commune, se réunit mensuellement. Il est consulté sur les projets concernant la jeunesse. 2.7 Le Conseil des Sages, composé de personnes retraitées volontaires, constitue une instance consultative sur les projets d'intérêt général.
+
+## Article 3 : Information des citoyens",../inputs\intances\RÈGLEMENT MUNICIPAL.pdf,.pdf
+"## Article 3 : Information des citoyens
+
+3.1 Les décisions du conseil municipal et les arrêtés municipaux sont portés à la connaissance du public par voie d'affichage à la mairie et publication sur le site internet de la commune. 3.2 Un bulletin municipal trimestriel ""Le Trifouillis Infos"" est distribué gratuitement à tous les foyers de la commune. Il présente les actualités municipales, les projets en cours et les événements à venir.",../inputs\intances\RÈGLEMENT MUNICIPAL.pdf,.pdf
+"3.3 Le site internet de la commune www.trifouillis-sur-loire.fr est régulièrement mis à jour et présente l'ensemble des informations utiles aux habitants. 3.4 Des panneaux d'affichage électroniques situés Place de la République, devant la mairie, et dans le quartier des Hautes Rives diffusent les informations municipales urgentes et les annonces d'événements",../inputs\intances\RÈGLEMENT MUNICIPAL.pdf,.pdf
+". 3.5 Une application mobile ""Trifouillis Connect"" permet aux habitants de recevoir des notifications sur les actualités de la commune et de signaler des problèmes sur le domaine public. 3.6 Des réunions publiques d'information sont organisées pour les projets d'aménagement importants et avant le vote du budget annuel. 3.7 Une permanence d'élus est assurée chaque premier samedi du mois de 10h00 à 12h00 à la mairie, sans rendez-vous",../inputs\intances\RÈGLEMENT MUNICIPAL.pdf,.pdf
+. 3.8 Le maire présente ses vœux à la population lors d'une cérémonie organisée en janvier de chaque année. Article 4 : État civil et formalités administratives 4.1 Les déclarations de naissance doivent être effectuées à la mairie dans les cinq jours qui suivent l'accouchement. 4.2 Les déclarations de décès doivent être faites à la mairie dans les 24 heures suivant le décès ou sa constatation,../inputs\intances\RÈGLEMENT MUNICIPAL.pdf,.pdf
+". 4.3 Les mariages sont célébrés à la mairie, du lundi au samedi, sur rendez-vous, après constitution du dossier et publication des bans. 4.4 Les PACS (Pactes Civils de Solidarité) sont enregistrés à la mairie sur rendez-vous, après constitution du dossier complet. 4.5 Les demandes de cartes nationales d'identité et de passeports sont traitées sur rendez-vous. La commune étant équipée d'une station biométrique, elle peut recevoir les demandes des habitants d'autres communes",../inputs\intances\RÈGLEMENT MUNICIPAL.pdf,.pdf
+". 4.6 Les inscriptions sur les listes électorales peuvent être effectuées tout au long de l'année. Pour participer à un scrutin, l'inscription doit être faite au plus tard le sixième vendredi précédant le premier tour de l'élection. 4.7 Les attestations d'accueil pour les ressortissants étrangers sont délivrées sur rendez-vous après vérification des conditions d'hébergement",../inputs\intances\RÈGLEMENT MUNICIPAL.pdf,.pdf
+. 4.8 Les recensements militaires sont obligatoires pour tous les jeunes Français (garçons et filles) dans les trois mois qui suivent leur 16ème anniversaire.,../inputs\intances\RÈGLEMENT MUNICIPAL.pdf,.pdf
+"- 4.9 Les légalisations de signature sont effectuées sur présentation d'une pièce d'identité et uniquement pour les habitants de la commune.
+
+## Article 5 : Cérémonies et protocole",../inputs\intances\RÈGLEMENT MUNICIPAL.pdf,.pdf
+"## Article 5 : Cérémonies et protocole
+
+- 5.1 Les cérémonies commémoratives officielles sont organisées aux dates suivantes :
+- 19 mars : Journée nationale du souvenir (guerre d'Algérie)
+- Dernier dimanche d'avril : Journée nationale du souvenir des victimes de la déportation
+- •
+- •
+- 8 mai : Commémoration de la victoire de 1945
+- 27 mai : Journée nationale de la Résistance
+- 18 juin : Appel du Général de Gaulle
+- 14 juillet : Fête nationale
+- •
+- 11 novembre : Armistice 1918",../inputs\intances\RÈGLEMENT MUNICIPAL.pdf,.pdf
+"5.2 Le pavoisement des édifices publics est assuré conformément aux instructions préfectorales. 5.3 Les inaugurations d'équipements publics font l'objet d'une invitation adressée à l'ensemble de la population. 5.4 La présidence des cérémonies publiques est assurée par le Maire ou son représentant, conformément aux dispositions du décret du 13 septembre 1989. 5.5 Le jumelage avec la ville allemande de Weissdorf est célébré par des échanges annuels et une cérémonie officielle tous les cinq ans",../inputs\intances\RÈGLEMENT MUNICIPAL.pdf,.pdf
+. 5.6 Les mariages sont célébrés dans la salle des mariages de l'hôtel de ville. L'écharpe tricolore est portée par l'officier d'état civil. 5.7 Les noces d'or (50 ans de mariage) et de diamant (60 ans de mariage) peuvent faire l'objet d'une cérémonie en mairie sur demande écrite adressée au maire. 5.8 L'accueil des nouveaux habitants est organisé chaque année en septembre.,../inputs\intances\RÈGLEMENT MUNICIPAL.pdf,.pdf
+"## TITRE II : ORDRE PUBLIC ET SÉCURITÉ
+
+## Article 6 : Tranquillité publique",../inputs\intances\RÈGLEMENT MUNICIPAL.pdf,.pdf
+- 6.1 Sont interdits tous bruits causés sans nécessité ou résultant d'un défaut de précaution et susceptibles de troubler la tranquillité des habitants.,../inputs\intances\RÈGLEMENT MUNICIPAL.pdf,.pdf
+"- 6.2 Les travaux de bricolage ou de jardinage réalisés par des particuliers à l'aide d'outils ou d'appareils bruyants ne peuvent être effectués que : · Du lundi au vendredi de 8h30 à 12h00 et de 14h30 à 19h30 · Le samedi de 9h00 à 12h00 et de 15h00 à 19h00 · Le dimanche et jours fériés de 10h00 à 12h00 6.3 Les propriétaires d'animaux sont tenus de prendre toutes mesures propres à préserver la tranquillité du voisinage, de jour comme de nuit",../inputs\intances\RÈGLEMENT MUNICIPAL.pdf,.pdf
+. 6.4 Les propriétaires et possesseurs d'alarmes sonores d'habitation ou de véhicules doivent prendre toutes dispositions pour que ces dispositifs ne troublent pas la tranquillité du voisinage et ne se déclenchent pas de façon intempestive. 6.5 Les établissements recevant du public et diffusant à titre habituel de la musique amplifiée doivent faire réaliser une étude de l'impact des nuisances sonores et mettre en œuvre les préconisations pour limiter ces nuisances,../inputs\intances\RÈGLEMENT MUNICIPAL.pdf,.pdf
+". 6.6 Les festivités privées susceptibles de générer des nuisances sonores exceptionnelles doivent faire l'objet d'une déclaration préalable en mairie au moins 15 jours avant la date prévue. 6.7 L'usage des pétards et autres pièces d'artifices est interdit sur la voie publique et dans les lieux publics, sauf autorisation spéciale délivrée par le maire. 6.8 Les sonorisations installées à l'occasion des fêtes et manifestations sur la voie publique doivent faire l'objet d'une autorisation préalable",../inputs\intances\RÈGLEMENT MUNICIPAL.pdf,.pdf
+". 6.9 L'utilisation de drones est soumise à la réglementation nationale en vigueur et doit respecter la tranquillité et la vie privée des habitants. 6.10 Toute activité bruyante exercée par des professionnels (chantiers, livraisons, etc.) est interdite entre 20h00 et 7h00 ainsi que les dimanches et jours fériés, sauf dérogation exceptionnelle accordée par le maire",../inputs\intances\RÈGLEMENT MUNICIPAL.pdf,.pdf
+". Article 7 : Circulation et stationnement 7.1 La vitesse est limitée à 30 km/h dans tout le centre-bourg et les quartiers résidentiels, à 50 km/h sur les autres voies communales, sauf dispositions contraires signalées. 7.2 Le stationnement est interdit : · Sur les trottoirs · Devant les entrées carrossables des immeubles",../inputs\intances\RÈGLEMENT MUNICIPAL.pdf,.pdf
+"- Sur les places réservées aux personnes handicapées (sauf véhicules munis d'une carte mobilité inclusion)
+- Sur les emplacements de livraison pendant les heures d'activité commerciale
+- Sur les places réservées aux véhicules électriques en charge
+- Sur les arrêts de bus et de cars scolaires
+- Dans les zones signalées par une interdiction permanente ou temporaire",../inputs\intances\RÈGLEMENT MUNICIPAL.pdf,.pdf
+"7.3 La zone bleue du centre-bourg est en vigueur du lundi au samedi de 9h00 à 19h00, pour une durée maximale de stationnement de 1h30. L'usage du disque de stationnement conforme est obligatoire. 7.4 Les véhicules en stationnement abusif (plus de 7 jours consécutifs au même emplacement) pourront être verbalisés et mis en fourrière",../inputs\intances\RÈGLEMENT MUNICIPAL.pdf,.pdf
+". 7.5 Les véhicules d'un poids total autorisé en charge supérieur à 3,5 tonnes ne peuvent stationner dans les zones résidentielles et dans le centre-ville, sauf pour les opérations de livraison ou de déménagement. 7.6 La circulation des poids lourds de plus de 7,5 tonnes est interdite dans le centreville, sauf pour les livraisons entre 6h00 et 11h00. 7.7 Les convois exceptionnels doivent faire l'objet d'une autorisation préalable de la mairie et suivre l'itinéraire déterminé",../inputs\intances\RÈGLEMENT MUNICIPAL.pdf,.pdf
+". 7.8 Les zones piétonnes du centre-ville sont interdites à la circulation motorisée, sauf véhicules de secours, de police et riverains munis d'une autorisation. 7.9 Les pistes cyclables sont réservées aux cycles et aux engins de déplacement personnel motorisés (trottinettes électriques, etc.). 7.10 Les chemins ruraux et forestiers sont interdits aux véhicules à moteur, sauf véhicules agricoles, forestiers, de secours ou dûment autorisés",../inputs\intances\RÈGLEMENT MUNICIPAL.pdf,.pdf
+". 7.11 Le stationnement des camping-cars est autorisé uniquement sur l'aire spécialement aménagée située Avenue des Peupliers, pour une durée maximale de 72 heures. 7.12 Les aires de covoiturage situées aux entrées de la commune sont réservées aux usagers pratiquant le covoiturage.",../inputs\intances\RÈGLEMENT MUNICIPAL.pdf,.pdf
+"## Article 8 : Salubrité publique
+
+8.1 Il est interdit de déposer, d'abandonner, de jeter ou de déverser des déchets de toute nature sur l'ensemble des voies, espaces publics et privés de la commune, sous peine d'amende.",../inputs\intances\RÈGLEMENT MUNICIPAL.pdf,.pdf
+8.2 La collecte des ordures ménagères s'effectue les lundis et jeudis matin. Les conteneurs doivent être sortis la veille au soir après 19h00 et rentrés dans la journée suivant la collecte avant 20h00. 8.3 Le tri sélectif est obligatoire. Les emballages recyclables sont collectés le mercredi. Les points d'apport volontaire pour le verre sont répartis sur la commune. 8.4 La déchetterie communale est ouverte du mardi au samedi de 9h00 à 12h00 et de 14h00 à 18h00,../inputs\intances\RÈGLEMENT MUNICIPAL.pdf,.pdf
+". L'accès est réservé aux habitants de la commune munis d'un badge délivré par la mairie. 8.5 Les déchets verts doivent être apportés à la déchetterie ou compostés. Le compostage individuel est encouragé. Des composteurs sont mis à disposition gratuitement sur demande à la mairie. 8.6 Les encombrants sont collectés sur rendez-vous le premier mercredi de chaque mois, après inscription préalable auprès des services techniques",../inputs\intances\RÈGLEMENT MUNICIPAL.pdf,.pdf
+". 8.7 Les propriétaires ou locataires sont tenus de maintenir les trottoirs et caniveaux propres au droit de leur propriété (balayage, désherbage, déneigement). 8.8 Il est interdit de laisser couler sur la voie publique des substances susceptibles de compromettre la salubrité et la propreté de la voie publique ou d'incommoder les usagers. 8.9 Les propriétaires d'animaux doivent procéder immédiatement au ramassage des déjections de leur animal sur le domaine public",../inputs\intances\RÈGLEMENT MUNICIPAL.pdf,.pdf
+". Des distributeurs de sacs sont disponibles à cet effet dans divers points de la commune. 8.10 Les travaux de nettoyage ou de vidange des fosses septiques, puisards et fosses d'aisance ne peuvent être effectués que par des entreprises spécialisées et agréées. 8.11 Les propriétaires ou exploitants sont tenus d'entretenir les terrains non bâtis situés à l'intérieur d'une zone d'habitation ou à une distance maximum de 50 mètres des habitations",../inputs\intances\RÈGLEMENT MUNICIPAL.pdf,.pdf
+. Le débroussaillage doit être effectué avant le 30 juin de chaque année. 8.12 Les piscines privées doivent être équipées d'un système de traitement des eaux conforme à la réglementation en vigueur. La vidange des piscines sur la voie publique est interdite. Article 9 : Police municipale 9.1 Le service de police municipale de Trifouillis-sur-Loire est composé de 4 agents. Il est chargé d'assurer l'exécution des arrêtés de police du maire et de constater les infractions à ces arrêtés,../inputs\intances\RÈGLEMENT MUNICIPAL.pdf,.pdf
+. 9.2 Les agents de police municipale assurent une présence quotidienne sur la commune du lundi au samedi de 8h00 à 20h00.,../inputs\intances\RÈGLEMENT MUNICIPAL.pdf,.pdf
+"9.3 En dehors des heures de service de la police municipale, la Gendarmerie Nationale, dont la brigade est située Rue des Écoles, assure la sécurité de la commune. 9.4 La vidéoprotection est mise en place dans certains secteurs de la commune, conformément à l'autorisation préfectorale. Les enregistrements sont conservés 30 jours et ne peuvent être visionnés que par les personnes habilitées",../inputs\intances\RÈGLEMENT MUNICIPAL.pdf,.pdf
+". 9.5 Le bureau de police municipale, situé Place de la République, est ouvert au public du lundi au vendredi de 9h00 à 12h00 et de 14h00 à 17h00. 9.6 les heures de service ou par mail à police@trifouillis-sur-loire.fr. 9.7 Les objets trouvés doivent être déposés au bureau de police municipale, où ils sont conservés pendant un délai légal avant d'être restitués à leur propriétaire, remis au service des Domaines ou détruits selon leur nature",../inputs\intances\RÈGLEMENT MUNICIPAL.pdf,.pdf
+". 9.8 L'opération ""Tranquillité Vacances"" permet aux habitants de signaler leur absence au service de police municipale, qui effectuera des passages réguliers pour surveiller leur domicile. 9.9 Le stationnement des gens du voyage est interdit sur le territoire communal en dehors de l'aire d'accueil spécialement aménagée située Route de Bellevue. 9.10 Le maire peut, par arrêté motivé, interdire l'accès de certains lieux publics aux",../inputs\intances\RÈGLEMENT MUNICIPAL.pdf,.pdf
+"La police municipale peut être contactée par téléphone au 02.XX.XX.XX.XX pendant mineurs de moins de 18 ans non accompagnés entre 23h00 et 6h00. Article 10 : Animaux 10.1 Les propriétaires d'animaux sont civilement responsables des dommages que leurs animaux pourraient causer à autrui, même lorsqu'ils sont échappés ou égarés. 10.2 Il est interdit de laisser divaguer les chiens sur la voie publique, seuls et sans maître. Les chiens doivent être tenus en laisse dans les lieux publics",../inputs\intances\RÈGLEMENT MUNICIPAL.pdf,.pdf
+. Les chiens doivent être tenus en laisse dans les lieux publics. 10.3 Les chiens de catégorie 1 et 2 (chiens d'attaque et chiens de garde ou de défense) doivent être déclarés en mairie et faire l'objet d'un permis de détention. Ils doivent être muselés et tenus en laisse par une personne majeure sur la voie publique,../inputs\intances\RÈGLEMENT MUNICIPAL.pdf,.pdf
+". 10.4 Il est interdit d'introduire des chiens, même tenus en laisse, dans les parcs et jardins publics, à l'exception des chiens guides d'aveugles et des chiens d'assistance aux personnes handicapées. 10.5 Les animaux errants seront capturés et conduits à la fourrière animale intercommunale. Les frais de capture et de garde sont à la charge du propriétaire. 10.6 Il est interdit de nourrir les animaux errants ou sauvages (pigeons, chats, etc.) sur le domaine public.",../inputs\intances\RÈGLEMENT MUNICIPAL.pdf,.pdf
+"10.7 L'élevage d'animaux de basse-cour est autorisé dans les zones non urbanisées de la commune, sous réserve du respect des distances minimales par rapport aux habitations voisines et des conditions de salubrité. 10.8 La détention d'animaux non domestiques (NAC) est soumise à autorisation préalable et doit respecter la réglementation en vigueur",../inputs\intances\RÈGLEMENT MUNICIPAL.pdf,.pdf
+. 10.9 Les ruches doivent être déclarées en mairie et installées à une distance minimale de 20 mètres des propriétés voisines et de 50 mètres des établissements recevant du public. 10.10 Les chenils professionnels doivent être installés à une distance minimale de 100 mètres de toute habitation occupée par des tiers et faire l'objet d'une déclaration ou autorisation selon leur capacité,../inputs\intances\RÈGLEMENT MUNICIPAL.pdf,.pdf
+". Article 11 : Débits de boissons et établissements recevant du public 11.1 L'ouverture d'un débit de boissons est soumise à déclaration préalable auprès de la mairie. 11.2 Les débits de boissons ne peuvent être établis à moins de 100 mètres des écoles, terrains de sport, cimetières et édifices religieux. 11.3 L'heure de fermeture des débits de boissons est fixée à 1h00 du matin. Des dérogations exceptionnelles peuvent être accordées par le maire à l'occasion de fêtes ou manifestations particulières",../inputs\intances\RÈGLEMENT MUNICIPAL.pdf,.pdf
+. 11.4 Les établissements recevant du public doivent respecter les normes de sécurité et d'accessibilité. La commission communale de sécurité effectue des visites périodiques pour vérifier le respect de ces normes. 11.5 L'installation de terrasses sur le domaine public est soumise à autorisation préalable du maire et au paiement d'une redevance. Les terrasses doivent être installées de façon à ne pas gêner la circulation des piétons,../inputs\intances\RÈGLEMENT MUNICIPAL.pdf,.pdf
+". 11.6 La vente à emporter de boissons alcoolisées est interdite entre 22h00 et 6h00. 11.7 La consommation d'alcool est interdite sur la voie publique et dans les espaces publics de la commune, sauf autorisation spéciale délivrée par le maire à l'occasion de manifestations. 11.8 Les établissements diffusant de la musique amplifiée doivent respecter les normes acoustiques en vigueur et ne pas troubler la tranquillité du voisinage",../inputs\intances\RÈGLEMENT MUNICIPAL.pdf,.pdf
+. 11.9 Les exploitants d'établissements recevant du public doivent veiller au bon comportement de leur clientèle à l'intérieur et aux abords immédiats de leur,../inputs\intances\RÈGLEMENT MUNICIPAL.pdf,.pdf
+"11.10 Les restaurants et points de vente alimentaire doivent respecter les règles d'hygiène et de salubrité définies par la réglementation en vigueur. Article 12 : Sécurité des bâtiments et constructions 12.1 Les propriétaires sont tenus d'entretenir les bâtiments en bon état de solidité pour assurer la sécurité des occupants et des passants. 12.2 En cas de péril imminent, le maire peut prescrire les mesures provisoires nécessaires pour garantir la sécurité, notamment l'évacuation de l'immeuble",../inputs\intances\RÈGLEMENT MUNICIPAL.pdf,.pdf
+". 12.3 Les chantiers de construction ou de démolition doivent être clôturés de manière à interdire l'accès aux personnes non autorisées. 12.4 Les échafaudages, échelles et autres dispositifs suspendus utilisés pour les travaux doivent être installés de manière à ne présenter aucun danger pour les passants. 12.5 L'éclairage des parties communes des immeubles collectifs doit être maintenu en bon état de fonctionnement",../inputs\intances\RÈGLEMENT MUNICIPAL.pdf,.pdf
+". 12.6 Les cheminées, conduits de fumée et gaines techniques doivent être ramonés au moins une fois par an. 12.7 Les toitures, gouttières et descentes d'eau pluviale doivent être maintenues en bon état d'entretien. 12.8 Les constructions menaçant ruine font l'objet d'une procédure spécifique pouvant aboutir à une mise en demeure de réparation ou de démolition. 12.9 Les balcons et terrasses ne doivent pas être surchargés et les garde-corps doivent être maintenus en bon état",../inputs\intances\RÈGLEMENT MUNICIPAL.pdf,.pdf
+". 12.10 Les installations électriques, de gaz et de chauffage doivent être conformes aux normes en vigueur et régulièrement vérifiées. 12.11 Les ascenseurs doivent faire l'objet d'un contrat d'entretien et de contrôles périodiques conformément à la réglementation en vigueur. 12.12 Les propriétaires ou exploitants sont tenus de déneiger et de saler en cas de verglas les trottoirs au droit de leur propriété.",../inputs\intances\RÈGLEMENT MUNICIPAL.pdf,.pdf
+"TITRE III : URBANISME ET ENVIRONNEMENT
+
+Article 13 : Règles d'urbanisme",../inputs\intances\RÈGLEMENT MUNICIPAL.pdf,.pdf
+"13.1 Toute construction nouvelle, extension ou modification de l'aspect extérieur d'un bâtiment existant nécessite une autorisation préalable (permis de construire, déclaration préalable) à déposer en mairie. 13.2 Le Plan Local d'Urbanisme (PLU) définit les règles applicables sur le territoire communal. Il est consultable en mairie et sur le site internet de la commune. 13.3 La commune comprend un secteur sauvegardé dans le centre historique où des prescriptions architecturales particulières s'appliquent",../inputs\intances\RÈGLEMENT MUNICIPAL.pdf,.pdf
+". Toute modification de façade dans ce secteur est soumise à l'avis de l'Architecte des Bâtiments de France. 13.4 Les demandes d'autorisation d'urbanisme sont instruites par le service urbanisme de la commune dans un délai légal variable selon la nature du projet. 13.5 Les clôtures sont soumises à déclaration préalable sur l'ensemble du territoire communal. Leur hauteur est limitée à 1,80 mètre en limite séparative et à 1,50 mètre en bordure de voie publique",../inputs\intances\RÈGLEMENT MUNICIPAL.pdf,.pdf
+". 13.6 L'installation de panneaux solaires est autorisée sous réserve du respect des règles d'intégration définies dans le PLU. Dans le secteur sauvegardé, leur installation est soumise à des prescriptions particulières. 13.7 Les divisions de terrains en vue de construire sont soumises à autorisation préalable dans les zones définies par le PLU. 13.8 Les constructions doivent respecter les règles de retrait par rapport aux limites séparatives et aux voies publiques définies dans le PLU pour chaque zone",../inputs\intances\RÈGLEMENT MUNICIPAL.pdf,.pdf
+. 13.9 Le coefficient d'emprise au sol des constructions ne peut excéder les pourcentages définis dans le PLU pour chaque zone. 13.10 Les bâtiments remarquables répertoriés dans le PLU font l'objet d'une protection particulière interdisant leur démolition et encadrant strictement leur modification. 13.11 Les espaces boisés classés figurant au PLU sont soumis au régime forestier. Tout changement d'affectation ou mode d'occupation du sol de nature à compromettre la conservation des boisements y est interdit.,../inputs\intances\RÈGLEMENT MUNICIPAL.pdf,.pdf
+"Type : Plan d'action Sujet : Développement de nouvelles pistes cyclables et zones piétonnes (2026) Date : 15 novembre 2025
+
+## MAIRIE DE TRIFOUILLIS-SUR-LOIRE
+
+Plan d'Action 2026 Développement des Mobilités Douces : Nouvelles Pistes Cyclables et Zones Piétonnes
+
+Date de publication : 15 novembre 2025 Service porteur : Services Techniques - Pôle Aménagement Urbain et Mobilités Validé par : Conseil Municipal du [Date fictive, ex: 10 novembre 2025]
+
+## 1. Introduction et Contexte",../inputs\projets\Développement de nouvelles pistes cyclables et zones piétonnes (2026).pdf,.pdf
+"## 1. Introduction et Contexte
+
+Face aux enjeux environnementaux, à la nécessité d'améliorer la qualité de l'air et le cadre de vie, et pour répondre à une demande citoyenne croissante en faveur des modes de déplacement actifs, la municipalité de Trifouillis-sur-Loire s'engage résolument dans la promotion des mobilités douces.",../inputs\projets\Développement de nouvelles pistes cyclables et zones piétonnes (2026).pdf,.pdf
+"S'inscrivant dans la continuité des actions déjà menées (rénovation de voiries intégrant des aménagements cyclables ponctuels, zones 30), ce plan d'action pour l'année 2026 vise à accélérer le développement d'un réseau cyclable cohérent et sécurisé, ainsi qu'à expérimenter et créer de nouveaux espaces apaisés dédiés aux piétons.
+
+## Objectifs principaux pour 2026 :",../inputs\projets\Développement de nouvelles pistes cyclables et zones piétonnes (2026).pdf,.pdf
+"## Objectifs principaux pour 2026 :
+
+- Créer environ 2,5 km de nouveaux aménagements cyclables sécurisés.
+- Initier l'expérimentation d'une zone piétonne temporaire et créer une zone de rencontre.
+- Améliorer la sécurité des cyclistes et piétons aux points stratégiques.
+- Renforcer l'attractivité du vélo et de la marche comme modes de déplacement quotidiens.
+
+## 2. Axes Stratégiques
+
+Le plan d'action 2026 s'articule autour de quatre axes majeurs :",../inputs\projets\Développement de nouvelles pistes cyclables et zones piétonnes (2026).pdf,.pdf
+"1. Création et Extension du Réseau Cyclable : Développer des itinéraires continus et sécurisés pour les déplacements à vélo.
+2. Apaisement et Priorité aux Piétons : Créer des espaces publics plus conviviaux et sûrs pour la marche.
+3. Sécurisation des Itinéraires et Points Noirs : Traiter les zones dangereuses identifiées pour les modes actifs.
+4. Communication et Accompagnement : Informer, sensibiliser et encourager l'usage des mobilités douces.
+
+## 3. Plan d'Actions Détaillé 2026",../inputs\projets\Développement de nouvelles pistes cyclables et zones piétonnes (2026).pdf,.pdf
+"| Axe Stratégique    | Action                                           | Description Sommaire                                                                                  | Budget Estimé (€ HT)   | Calendrier Prévisionnel   |
+|--------------------|--------------------------------------------------|-------------------------------------------------------------------------------------------------------|------------------------|---------------------------|",../inputs\projets\Développement de nouvelles pistes cyclables et zones piétonnes (2026).pdf,.pdf
+"| 1. Réseau Cyclable | 1.1 Piste Av. de la République (Tr. Mairie-Gare) | Aménagement d'une piste cyclable bidirectionnelle séparée de la chaussée (1,2 km).                    | 180 000 €              | T1-T3 2026                |
+|                    | 1.2 Bandes Rue du Moulin                         | Marquage de bandes cyclables (0,8 km) dans les deux sens.                                             | 25 000 €               | T2 2026                   |",../inputs\projets\Développement de nouvelles pistes cyclables et zones piétonnes (2026).pdf,.pdf
+"|                    | 1.3 Voie Verte Parc-Loire                        | Création d'une liaison douce (0,5 km) en site propre entre le Parc Municipal et les berges aménagées. | 60 000 €               | T3-T4 2026                |
+|                    | 1.4 Installation Arceaux Vélo                    | Pose de 50 nouveaux arceaux à vélos (centre- ville, écoles, équipements publics).                     | 15 000 €               | T1-T4 2026                |",../inputs\projets\Développement de nouvelles pistes cyclables et zones piétonnes (2026).pdf,.pdf
+"| 2. Zones Piétonnes | 2.1 Expérimentation Place du Marché              | Piétonnisation temporaire les samedis matins (signalisation amovible, communication).                 | 5 000 €                | Avril-Octobre 2026        |
+|                    | 2.2 Zone de Rencontre Rue Pasteur                | Aménagement d'une zone de rencontre (20 km/h, priorité piétons) : signalisation, léger mobilier.      | 30 000 €               | T3 2026                   |",../inputs\projets\Développement de nouvelles pistes cyclables et zones piétonnes (2026).pdf,.pdf
+"| 3. Sécurisation    | 3.1 Carrefour Gare/République                    | Réaménagement du carrefour : création d'un plateau traversant,                                        | 45 000 €               | T2-T3 2026                |",../inputs\projets\Développement de nouvelles pistes cyclables et zones piétonnes (2026).pdf,.pdf
+"modification des feux, marquages spécifiques vélos/piétons.
+
+3.2 Éclairage Abords Pistes
+
+Renforcement de l'éclairage public LED sur 3 sections de pistes cyclables existantes jugées sous-éclairées. 20 000 € T4 2026
+
+4. Communication 4.1 Campagne Mobilités Douces
+
+Actions d'information (bulletin municipal, site web, affichage, réunion publique) sur les nouveaux aménagements et le partage de la voirie.
+
+8 000 € Tout au long de 2026
+
+4.2 Plan des Itinéraires Cyclables",../inputs\projets\Développement de nouvelles pistes cyclables et zones piétonnes (2026).pdf,.pdf
+"4.2 Plan des Itinéraires Cyclables
+
+Création et diffusion d'un plan mis à jour des pistes, bandes, et voies vertes de la commune.
+
+7 000 € T4 2026
+
+TOTAL PRÉVISIONNEL 2026
+
+395 000 € HT
+
+Exporter vers Sheets
+
+## 4. Budget Prévisionnel Global 2026
+
+Le budget total estimé pour la mise en œuvre de ce plan d'action en 2026 s'élève à 395 000 € HT . Ce financement sera assuré par :",../inputs\projets\Développement de nouvelles pistes cyclables et zones piétonnes (2026).pdf,.pdf
+"- Budget municipal d'investissement : [Montant à définir, ex : 295 000 €]
+- Demandes de subventions (Département, Région, État - DSIL, Fonds mobilités actives) : Objectif de [Montant à définir, ex : 100 000 €]
+
+## 5. Pilotage et Suivi",../inputs\projets\Développement de nouvelles pistes cyclables et zones piétonnes (2026).pdf,.pdf
+"Le pilotage de ce plan d'action est assuré par l'Adjoint(e) au Maire délégué(e) à l'Urbanisme et aux Mobilités, en lien étroit avec les Services Techniques. Un comité de suivi associant élus, techniciens et représentants d'usagers (associations cyclistes, comités de quartier) se réunira trimestriellement pour évaluer l'avancement des actions et proposer d'éventuels ajustements",../inputs\projets\Développement de nouvelles pistes cyclables et zones piétonnes (2026).pdf,.pdf
+". Des indicateurs de suivi seront mis en place (km réalisés, fréquentation des pistes via éco-compteurs, nombre d'arceaux, retours usagers).",../inputs\projets\Développement de nouvelles pistes cyclables et zones piétonnes (2026).pdf,.pdf
+"Ce plan d'action 2026 marque une étape significative dans la transformation de Trifouillis-sur-Loire vers une ville plus durable, plus saine et plus agréable à vivre. En favorisant activement la marche et le vélo, la municipalité entend améliorer la sécurité routière, réduire la pollution et offrir de réelles alternatives à l'usage de la voiture individuelle pour les déplacements de proximité",../inputs\projets\Développement de nouvelles pistes cyclables et zones piétonnes (2026).pdf,.pdf
+. Le succès de ce plan reposera sur la bonne exécution des travaux mais aussi sur l'appropriation de ces nouveaux aménagements par l'ensemble des habitants.,../inputs\projets\Développement de nouvelles pistes cyclables et zones piétonnes (2026).pdf,.pdf
+"## Fait à Trifouillis-sur-Loire, le 15 novembre 2025
+
+Pour le Maire et par délégation, L'Adjoint(e) à l'Urbanisme et aux Mobilités [Nom de l'Adjoint(e)]",../inputs\projets\Développement de nouvelles pistes cyclables et zones piétonnes (2026).pdf,.pdf
+## Brief de projet : Installation d'un système de surveillance urbaine Aperçu du projet,../inputs\projets\Installation d'un système de surveillance urbaine.pdf,.pdf
+"L'installation d'un système de surveillance urbaine représente un investissement de 400 000 € pour notre commune, avec un déploiement prévu à partir du 1er décembre 2023. Ce projet vise à renforcer significativement la sécurité publique par la mise en place d'un réseau de caméras stratégiquement positionnées, tout en respectant les libertés individuelles et en s'inscrivant dans une démarche globale de ville intelligente et sécurisée.
+
+## Contexte et justification
+
+## Diagnostic de la situation actuelle",../inputs\projets\Installation d'un système de surveillance urbaine.pdf,.pdf
+"Les statistiques de sécurité de ces dernières années indiquent une augmentation modérée mais constante des incivilités, dégradations et petits délits dans certains secteurs de la commune. Les enquêtes auprès des habitants révèlent un sentiment d'insécurité croissant, particulièrement en soirée et dans certaines zones comme les abords des écoles, les places publiques et les parkings",../inputs\projets\Installation d'un système de surveillance urbaine.pdf,.pdf
+". Par ailleurs, les forces de l'ordre locales disposent de moyens humains limités pour assurer une présence constante sur l'ensemble du territoire communal.",../inputs\projets\Installation d'un système de surveillance urbaine.pdf,.pdf
+"## Cadre légal et éthique
+
+Le projet s'inscrit dans le strict respect du cadre réglementaire national concernant la vidéoprotection dans les espaces publics, notamment les dispositions relatives au droit à l'image, à la protection des données personnelles (RGPD) et aux autorisations préfectorales nécessaires. Une charte éthique spécifique sera élaborée pour encadrer l'utilisation du système et garantir le respect des libertés fondamentales.
+
+## Bénéfices attendus",../inputs\projets\Installation d'un système de surveillance urbaine.pdf,.pdf
+"## Bénéfices attendus
+
+- Réduction des actes de délinquance et d'incivilité de 15 à 20% dans les zones couvertes
+- Amélioration du sentiment de sécurité des habitants et visiteurs
+- Aide à la résolution des enquêtes par la fourniture d'éléments probants aux autorités
+- Optimisation des interventions des forces de l'ordre par une meilleure réactivité
+- Protection renforcée des équipements publics contre les dégradations
+- Contribution à la gestion des flux urbains et à la sécurité routière",../inputs\projets\Installation d'un système de surveillance urbaine.pdf,.pdf
+"## Description détaillée du projet
+
+## Architecture du système
+
+Le système de surveillance urbaine comprendra :",../inputs\projets\Installation d'un système de surveillance urbaine.pdf,.pdf
+"Le système de surveillance urbaine comprendra :
+
+- 75 caméras de vidéoprotection réparties sur le territoire communal
+- Un centre de supervision urbain (CSU) équipé de murs d'écrans et postes de contrôle
+- Une infrastructure réseau sécurisée pour la transmission des données
+- Des serveurs de stockage redondants pour l'archivage temporaire des images
+- Des logiciels d'analyse vidéo de dernière génération
+- Des dispositifs de secours énergétique garantissant la continuité du service
+
+## Types d'équipements",../inputs\projets\Installation d'un système de surveillance urbaine.pdf,.pdf
+"## Types d'équipements
+
+Les caméras déployées seront de plusieurs types, adaptés aux besoins spécifiques des différents environnements :",../inputs\projets\Installation d'un système de surveillance urbaine.pdf,.pdf
+"- Caméras fixes haute définition pour la surveillance des points sensibles
+- Caméras dômes orientables pour la couverture de zones étendues
+- Caméras à vision nocturne pour les secteurs moins éclairés
+- Caméras LAPI (Lecture Automatique des Plaques d'Immatriculation) aux entrées principales de la ville
+- Caméras nomades déployables temporairement lors d'événements spéciaux
+
+## Technologies innovantes
+
+Le système intégrera plusieurs technologies avancées :",../inputs\projets\Installation d'un système de surveillance urbaine.pdf,.pdf
+"Le système intégrera plusieurs technologies avancées :
+
+- Analyse vidéo intelligente pour détection automatique d'incidents
+- Cryptage de bout en bout des flux vidéo pour garantir la sécurité des données
+- Intelligence artificielle pour le filtrage des alertes et la réduction des faux positifs
+- Capacités de zoom numérique sans perte de qualité
+- Interface de gestion intuitive accessible sur différents supports
+
+## Déploiement stratégique
+
+## Cartographie des zones prioritaires",../inputs\projets\Installation d'un système de surveillance urbaine.pdf,.pdf
+"## Cartographie des zones prioritaires
+
+L'implantation des caméras a été définie selon une analyse multicritère prenant en compte :
+
+- Les statistiques d'incidents et délits par secteur
+- Les zones de forte affluence (commerces, écoles, transports)
+- Les lieux sensibles (bâtiments publics, parcs)
+- Les axes routiers principaux
+- Les retours des habitants et commerçants lors des consultations
+
+## La couverture sera particulièrement renforcée dans :",../inputs\projets\Installation d'un système de surveillance urbaine.pdf,.pdf
+"## La couverture sera particulièrement renforcée dans :
+
+- Le centre-ville et les zones commerçantes
+- Les abords des établissements scolaires
+- Les parcs et jardins publics
+- Les parkings municipaux
+- Les zones d'activités économiques périphériques
+
+## Phasage du déploiement
+
+Le projet sera réalisé en trois phases distinctes :",../inputs\projets\Installation d'un système de surveillance urbaine.pdf,.pdf
+"Le projet sera réalisé en trois phases distinctes :
+
+1. Phase 1 (3 mois) : Installation du CSU et déploiement dans le centre-ville (25 caméras)
+2. Phase 2 (3 mois) : Extension aux abords des équipements publics (25 caméras)
+3. Phase 3 (2 mois) : Couverture des zones périphériques et finalisation (25 caméras)
+
+## Infrastructure réseau
+
+La transmission des données s'appuiera sur :",../inputs\projets\Installation d'un système de surveillance urbaine.pdf,.pdf
+"La transmission des données s'appuiera sur :
+
+- Un réseau fibre optique dédié pour les zones à forte densité
+- Des liaisons radio sécurisées pour les zones plus éloignées
+- Des systèmes de secours 4G/5G en cas de défaillance
+
+## Organisation opérationnelle Centre de Supervision Urbain (CSU)
+
+Le CSU représentera le cœur opérationnel du dispositif :",../inputs\projets\Installation d'un système de surveillance urbaine.pdf,.pdf
+"Le CSU représentera le cœur opérationnel du dispositif :
+
+- Superficie de 120 m² dans un bâtiment municipal sécurisé
+- Équipement technique de dernière génération
+- Mur d'images composé de 9 écrans haute définition
+- 3 postes opérateurs ergonomiques
+- Liaison directe avec les services de police/gendarmerie
+- Accès strictement contrôlé par système biométrique
+
+## Ressources humaines
+
+L'exploitation du système nécessitera :",../inputs\projets\Installation d'un système de surveillance urbaine.pdf,.pdf
+"L'exploitation du système nécessitera :
+
+- 6 opérateurs vidéo formés (2 par équipe en rotation)
+- 1 responsable technique du système
+- 1 superviseur administratif et juridique
+- Support technique externe pour la maintenance spécialisée
+
+## Protocoles opérationnels
+
+Des procédures précises seront établies pour :",../inputs\projets\Installation d'un système de surveillance urbaine.pdf,.pdf
+"Des procédures précises seront établies pour :
+
+- La gestion quotidienne de la surveillance
+- Le traitement des incidents détectés
+- La collaboration avec les forces de l'ordre
+- L'extraction et la transmission des images sur réquisition judiciaire
+- La maintenance préventive et curative des équipements
+- La gestion des pannes et situations dégradées
+
+## Cadre éthique et juridique Protection des libertés
+
+Le système sera déployé avec des garanties fortes :",../inputs\projets\Installation d'un système de surveillance urbaine.pdf,.pdf
+"Le système sera déployé avec des garanties fortes :
+
+- Floutage automatique des espaces privés dans le champ des caméras
+- Interdiction formelle de filmer l'intérieur des habitations
+- Signalétique claire informant de la présence de caméras
+- Droit d'accès aux images pour les personnes concernées
+- Conservation limitée des enregistrements (30 jours maximum)
+- Traçabilité complète des consultations d'images
+
+## Gouvernance et contrôle
+
+Pour garantir un usage éthique et transparent :",../inputs\projets\Installation d'un système de surveillance urbaine.pdf,.pdf
+"Pour garantir un usage éthique et transparent :
+
+- Création d'un comité d'éthique indépendant incluant des représentants de la société civile
+- Rapport annuel public sur l'utilisation du système
+- Audits techniques et juridiques réguliers
+- Formation obligatoire des opérateurs aux questions éthiques
+- Élaboration d'une charte de déontologie spécifique
+
+## Aspects financiers Budget détaillé
+
+Le budget global de 400 000 € se décompose comme suit :",../inputs\projets\Installation d'un système de surveillance urbaine.pdf,.pdf
+"Le budget global de 400 000 € se décompose comme suit :
+
+- Équipements de vidéoprotection (caméras, supports) : 180 000 €
+- Infrastructure réseau sécurisée : 60 000 €
+- Aménagement du CSU : 50 000 €
+- Serveurs et systèmes de stockage : 40 000 €
+- Logiciels et licences : 35 000 €
+- Études, conception et ingénierie : 25 000 €
+- Formation des personnels : 10 000 €
+
+## Plan de financement
+
+- Budget municipal : 200 000 € (50%)
+
+- Subvention de l'État (FIPD) : 120 000 € (30%)",../inputs\projets\Installation d'un système de surveillance urbaine.pdf,.pdf
+"- Subvention de l'État (FIPD) : 120 000 € (30%)
+
+- Participation de la région : 60 000 € (15%)
+
+- Participation du département : 20 000 € (5%)
+
+## Coûts d'exploitation
+
+Les coûts annuels d'exploitation sont estimés à 120 000 €, incluant :
+
+- Charges de personnel : 80 000 €
+
+- Maintenance technique : 25 000 €
+
+- Consommation énergétique : 5 000 €
+
+- Assurances et divers : 10 000 €
+
+Intégration dans la stratégie ""ville intelligente""
+
+## Synergie avec d'autres projets municipaux",../inputs\projets\Installation d'un système de surveillance urbaine.pdf,.pdf
+"## Synergie avec d'autres projets municipaux
+
+Le système de vidéoprotection s'intègrera dans l'écosystème plus large des projets numériques de la ville :",../inputs\projets\Installation d'un système de surveillance urbaine.pdf,.pdf
+"- Connexion avec le système de gestion des feux de circulation pour optimisation du trafic
+- Interface avec l'éclairage public intelligent pour ajustement en fonction des besoins de sécurité
+- Possibilité d'extension future pour applications de smart city (comptage de flux, détection d'incidents environnementaux)
+- Mutualisation de l'infrastructure réseau avec d'autres services connectés
+
+## Innovation technologique
+
+Le projet s'inscrit dans une démarche d'innovation contrôlée :",../inputs\projets\Installation d'un système de surveillance urbaine.pdf,.pdf
+"Le projet s'inscrit dans une démarche d'innovation contrôlée :
+
+- Plateforme évolutive permettant l'intégration de futures technologies
+- Architecture ouverte facilitant l'interopérabilité avec d'autres systèmes municipaux
+- Capacité d'adaptation aux évolutions réglementaires et technologiques
+
+## Plan de communication
+
+## Communication préalable au déploiement",../inputs\projets\Installation d'un système de surveillance urbaine.pdf,.pdf
+"## Communication préalable au déploiement
+
+- Organisation de réunions publiques d'information par quartier
+- Publication d'un dossier spécial dans le magazine municipal
+- Création d'une page dédiée sur le site web de la commune
+- Mise en place d'une exposition explicative en mairie
+- Distribution de brochures informatives aux habitants
+
+## Information continue",../inputs\projets\Installation d'un système de surveillance urbaine.pdf,.pdf
+"## Information continue
+
+- Signalétique réglementaire visible sur les zones couvertes
+- Points d'information réguliers sur l'avancement du projet
+- Communication des premiers résultats et statistiques d'efficacité
+- Témoignages des acteurs locaux de la sécurité et des commerçants
+
+## Évaluation et suivi
+
+## Indicateurs de performance
+
+L'efficacité du système sera évaluée régulièrement via :",../inputs\projets\Installation d'un système de surveillance urbaine.pdf,.pdf
+"L'efficacité du système sera évaluée régulièrement via :
+
+- Évolution statistique des actes de délinquance sur les zones couvertes
+- Nombre d'incidents détectés et traités grâce au système
+- Temps moyen d'intervention suite à détection
+- Enquêtes de perception auprès des habitants et commerçants
+- Nombre de réquisitions judiciaires ayant abouti grâce aux images
+
+## Processus d'amélioration continue
+
+Un comité de pilotage se réunira trimestriellement pour :",../inputs\projets\Installation d'un système de surveillance urbaine.pdf,.pdf
+"Un comité de pilotage se réunira trimestriellement pour :
+
+- Analyser les indicateurs de performance
+- Identifier les zones nécessitant des ajustements
+- Proposer des évolutions techniques ou organisationnelles
+- Valider les extensions éventuelles du système
+
+## Conclusion",../inputs\projets\Installation d'un système de surveillance urbaine.pdf,.pdf
+"L'installation de ce système de surveillance urbaine représente un pas significatif vers une ville plus sûre et plus sereine pour tous ses habitants. En conjuguant technologie avancée, respect scrupuleux des libertés individuelles et transparence dans la gouvernance, ce projet ambitionne de devenir un modèle d'équilibre entre sécurité publique et protection des droits fondamentaux",../inputs\projets\Installation d'un système de surveillance urbaine.pdf,.pdf
+". Au-delà de sa dimension sécuritaire, il s'inscrit dans une vision plus large de ville intelligente, où la technologie est mise au service du bien-être collectif et de la qualité de vie urbaine.",../inputs\projets\Installation d'un système de surveillance urbaine.pdf,.pdf
+"Type : Étude de faisabilité Sujet : Installation de panneaux photovoltaïques sur les bâtiments municipaux Date : 5 septembre 2025
+
+## MAIRIE DE TRIFOUILLIS-SUR-LOIRE",../inputs\projets\Installation de panneaux photovoltaïques sur les bâtiments municipaux.pdf,.pdf
+"## MAIRIE DE TRIFOUILLIS-SUR-LOIRE
+
+Étude de Faisabilité Installation de Panneaux Solaires Photovoltaïques sur les Bâtiments Municipaux : Mairie, École Primaire Jean Moulin, Gymnase Municipal Date de publication : 5 septembre 2025 Service commanditaire : Direction Générale des Services Réalisée par : Services Techniques Municipaux (Pôle Bâtiments et Énergie) avec l'appui d'un bureau d'études externe [Nom fictif du BE, ex : Sol'Air Études]
+
+## Résumé Opérationnel",../inputs\projets\Installation de panneaux photovoltaïques sur les bâtiments municipaux.pdf,.pdf
+"La présente étude évalue la faisabilité technique, économique et environnementale de l'installation de panneaux solaires photovoltaïques sur les toitures de trois bâtiments municipaux clés : la Mairie, l'École Primaire Jean Moulin et le Gymnase Municipal. L'analyse technique confirme un potentiel intéressant sur les trois sites, avec une surface exploitable totale estimée à environ 950 m²",../inputs\projets\Installation de panneaux photovoltaïques sur les bâtiments municipaux.pdf,.pdf
+". La production annuelle pourrait couvrir une part significative (estimée entre 25% et 40%) de la consommation électrique actuelle de ces bâtiments, générant des économies substantielles sur les factures énergétiques et réduisant l'empreinte carbone de la commune. L'investissement initial est conséquent mais potentiellement amortissable sur une période de 12 à 16 ans, en fonction des subventions obtenues et du modèle d'autoconsommation choisi",../inputs\projets\Installation de panneaux photovoltaïques sur les bâtiments municipaux.pdf,.pdf
+. L'étude recommande de poursuivre le projet en lançant des études techniques détaillées et en recherchant activement des financements externes.,../inputs\projets\Installation de panneaux photovoltaïques sur les bâtiments municipaux.pdf,.pdf
+"## 1. Introduction
+
+Dans un contexte de transition énergétique et de maîtrise nécessaire des dépenses de fonctionnement, la municipalité de Trifouillis-sur-Loire souhaite explorer le potentiel de production d'énergie renouvelable sur son propre patrimoine bâti. Cette étude de faisabilité a pour objectifs d'évaluer :",../inputs\projets\Installation de panneaux photovoltaïques sur les bâtiments municipaux.pdf,.pdf
+"- La faisabilité technique de l'installation de panneaux photovoltaïques sur les toits de la Mairie, de l'École Primaire et du Gymnase.
+- Le potentiel de production énergétique et le taux d'autoconsommation envisageable.
+- La viabilité économique du projet (coûts, économies, temps de retour sur investissement).
+- Les bénéfices environnementaux associés (réduction des émissions de CO2).
+- Les contraintes administratives et réglementaires .
+
+## 2. Méthodologie",../inputs\projets\Installation de panneaux photovoltaïques sur les bâtiments municipaux.pdf,.pdf
+"## 2. Méthodologie
+
+L'étude a été menée entre mai et août 2025 et a reposé sur :",../inputs\projets\Installation de panneaux photovoltaïques sur les bâtiments municipaux.pdf,.pdf
+"- Visites techniques des trois bâtiments et inspections visuelles des toitures.
+- Analyse des plans des bâtiments, des données cadastrales et des relevés d'ensoleillement (via simulation logicielle).
+- Collecte et analyse des données de consommation électrique (Linky) des trois sites sur les 24 derniers mois.
+- Recherche sur les technologies photovoltaïques actuelles et leurs coûts.
+- Consultations préliminaires avec des installateurs et ENEDIS.",../inputs\projets\Installation de panneaux photovoltaïques sur les bâtiments municipaux.pdf,.pdf
+"- Consultations préliminaires avec des installateurs et ENEDIS.
+- Modélisation économique basée sur différents scénarios (autoconsommation totale ou partielle avec vente de surplus).",../inputs\projets\Installation de panneaux photovoltaïques sur les bâtiments municipaux.pdf,.pdf
+## 3. Analyse Technique par Bâtiment,../inputs\projets\Installation de panneaux photovoltaïques sur les bâtiments municipaux.pdf,.pdf
+"|                         | Surface                       | Puissance                | Puissance                         | Puissance                                                 | Puissance                 |
+|-------------------------|-------------------------------|--------------------------|-----------------------------------|-----------------------------------------------------------|---------------------------|",../inputs\projets\Installation de panneaux photovoltaïques sur les bâtiments municipaux.pdf,.pdf
+"| Bâtiment                | Toiture Exploitable (estimée) | Orientation / Pente      | État Toiture / Structure          | Crête Installable (estimée)                               | Commentaires              |
+| 150 m²                  | Sud / 30°                     | Bon prioriOK             | état / A                          | 25kWc Quelques ombres portées mineures (antennes).        | Mairie                    |",../inputs\projets\Installation de panneaux photovoltaïques sur les bâtiments municipaux.pdf,.pdf
+"| 400 m² (plusieurs pans) | Sud-Est, Sud-Ouest 25°        | / Bon                    | état / Structure à vérifier       | 65kWc Nécessite étude structurelle détaillée (charpente). | École Jean Moulin         |
+| 400 m²                  |                               | Faible Pente (bac acier) | État moyen / Structure à vérifier | 60kWc Nécessite étude structurelle + étanchéité à         | Gymnase Municipal revoir. |",../inputs\projets\Installation de panneaux photovoltaïques sur les bâtiments municipaux.pdf,.pdf
+|                         | 950 m²                        |                          |                                   | 150kWc                                                    | TOTAL                     |,../inputs\projets\Installation de panneaux photovoltaïques sur les bâtiments municipaux.pdf,.pdf
+"Exporter vers Sheets
+
+## 4. Estimation du Potentiel de Production Énergétique
+
+- •
+
+- Production annuelle totale estimée : environ 165 000 kWh/an
+
+.
+
+- Consommation annuelle cumulée des 3 bâtiments : environ 500 000 kWh/an.
+
+- Taux de couverture potentiel par l'autoconsommation : 33% . Ce taux pourrait être optimisé par des stratégies de gestion de la charge (ex: recharges véhicules électriques en journée).
+
+## 5. Analyse Économique",../inputs\projets\Installation de panneaux photovoltaïques sur les bâtiments municipaux.pdf,.pdf
+"- Coût d'Investissement Total Estimé : environ 180 000 € HT à 220 000 € HT (fourniture, pose, raccordement, études, hors renforcement structurel majeur si nécessaire).
+- o Mairie: ~30k€ - 35k€
+- o École: ~75k€ - 90k€
+- o Gymnase: ~75k€ - 95k€ (incluant possible reprise étanchéité partielle)",../inputs\projets\Installation de panneaux photovoltaïques sur les bâtiments municipaux.pdf,.pdf
+"- Aides et Subventions Potentielles : À investiguer (DSIL, Fonds Chaleur ADEME pour le solaire thermique si couplé, tarifs d'achat ou prime à l'autoconsommation, aides régionales/départementales). L'obtention de subventions est clé pour améliorer la rentabilité.
+- Modèle Économique Recommandé : Autoconsommation collective (si techniquement possible entre les sites proches) ou individuelle avec vente du surplus.",../inputs\projets\Installation de panneaux photovoltaïques sur les bâtiments municipaux.pdf,.pdf
+"- Économies Annuelles Estimées (base tarif actuel ~0.20€/kWh) : Entre 25 000 € et 30 000 € / an (selon taux d'autoconsommation réel et prix de vente du surplus).
+- Temps de Retour sur Investissement Brut (hors subventions) : Estimé entre 14 et 18 ans.
+- Temps de Retour sur Investissement Net (avec hypothèse 30% subventions) : Estimé entre 10 et 13 ans .
+- Coûts de Maintenance / Assurance : Estimés à environ 1% de l'investissement initial par an.",../inputs\projets\Installation de panneaux photovoltaïques sur les bâtiments municipaux.pdf,.pdf
+"## 6. Bénéfices Environnementaux
+
+- Réduction annuelle estimée des émissions de CO2 : environ 15 tonnes eqCO2/an (basé sur le mix énergétique français moyen).
+- Contribution visible aux objectifs locaux et nationaux de transition énergétique.
+- Renforcement de l'image éco-responsable de Trifouillis-sur-Loire.
+
+## 7. Aspects Réglementaires et Administratifs",../inputs\projets\Installation de panneaux photovoltaïques sur les bâtiments municipaux.pdf,.pdf
+"## 7. Aspects Réglementaires et Administratifs
+
+- Nécessité de déposer des Déclarations Préalables de travaux pour chaque bâtiment.
+- Demandes de raccordement à effectuer auprès d'ENEDIS.
+- Vérifier si la Mairie ou l'École sont situées en périmètre protégé (avis Architecte des Bâtiments de France requis si oui).
+- Contrats d'achat ou de vente d'électricité à établir.
+
+## 8. Conclusions et Recommandations",../inputs\projets\Installation de panneaux photovoltaïques sur les bâtiments municipaux.pdf,.pdf
+"## 8. Conclusions et Recommandations
+
+L'installation de panneaux photovoltaïques sur les toitures de la Mairie, de l'École et du Gymnase de Trifouillis-sur-Loire présente une faisabilité technique avérée et un potentiel énergétique et économique intéressant , bien que conditionné par des études structurelles complémentaires (notamment pour l'école et le gymnase) et l' obtention de subventions . Les bénéfices environnementaux sont significatifs.
+
+## Il est recommandé de :",../inputs\projets\Installation de panneaux photovoltaïques sur les bâtiments municipaux.pdf,.pdf
+"1. Valider le principe de poursuite du projet par le Conseil Municipal.
+2. Commander les études techniques détaillées (diagnostic structurel des toitures concernées, étude de calepinage précise).
+3. Lancer une veille active et des démarches pour l'obtention de subventions .
+4. Affiner le modèle économique (autoconsommation individuelle ou collective, vente de surplus) en fonction des résultats des études et des opportunités réglementaires.",../inputs\projets\Installation de panneaux photovoltaïques sur les bâtiments municipaux.pdf,.pdf
+5. Inscrire les crédits nécessaires au budget prévisionnel 2026 pour les études et potentiellement le début des travaux sur un bâtiment pilote (ex: la Mairie si structure OK).,../inputs\projets\Installation de panneaux photovoltaïques sur les bâtiments municipaux.pdf,.pdf
+"Fait à Trifouillis-sur-Loire, le 5 septembre 2025 Le Responsable des Services Techniques, [Nom du Responsable]
+
+Le Maire,",../inputs\projets\Installation de panneaux photovoltaïques sur les bâtiments municipaux.pdf,.pdf
+"Projet d'Amélioration des Espaces Verts Présentation générale du projet Le projet d'amélioration des espaces verts de notre commune constitue une initiative essentielle pour renforcer la qualité environnementale et le cadre de vie de nos habitants. Lancé le 10 novembre 2023 avec un budget de 450 000 €, ce projet s'inscrit dans notre stratégie globale d'adaptation au changement climatique et de promotion du bien-être en milieu urbain",../inputs\projets\Projet d'Amélioration des Espaces Verts.pdf,.pdf
+". Contexte et justification Notre commune dispose actuellement de 15 hectares d'espaces verts répartis en différents parcs, squares et jardins. Un diagnostic approfondi a révélé plusieurs problématiques :",../inputs\projets\Projet d'Amélioration des Espaces Verts.pdf,.pdf
+"- Vieillissement du patrimoine arboré et paysager
+- Conception datée ne répondant plus aux enjeux climatiques actuels
+- Biodiversité limitée et fragmentation des corridors écologiques
+- Forte consommation d'eau pour l'entretien
+- Accessibilité insuffisante pour tous les publics
+- Déficit d'équipements ludiques et sportifs
+- Absence de cohérence paysagère à l'échelle communale",../inputs\projets\Projet d'Amélioration des Espaces Verts.pdf,.pdf
+"Face à ces constats et aux défis environnementaux contemporains, il est devenu indispensable de repenser entièrement la conception et la gestion de nos espaces verts pour en faire de véritables poumons verts multifonctionnels. Objectifs du projet Le réaménagement des parcs et jardins municipaux poursuit plusieurs objectifs complémentaires :",../inputs\projets\Projet d'Amélioration des Espaces Verts.pdf,.pdf
+"1. Renforcer la résilience climatique en créant des îlots de fraîcheur urbains
+2. Favoriser la biodiversité par une diversification des milieux et des essences
+3. Optimiser la gestion des ressources notamment l'eau et l'énergie
+4. Améliorer l'accessibilité pour tous les publics, quels que soient leur âge ou leur mobilité
+5. Développer des usages diversifiés récréatifs, sportifs, culturels et pédagogiques
+6. Créer du lien social par des espaces de rencontre et d'activités partagées",../inputs\projets\Projet d'Amélioration des Espaces Verts.pdf,.pdf
+"7. Valoriser l'identité paysagère du territoire en s'appuyant sur le patrimoine naturel local
+8. Impliquer les habitants dans la conception et l'entretien des espaces verts",../inputs\projets\Projet d'Amélioration des Espaces Verts.pdf,.pdf
+"Sites concernés et périmètre d'intervention
+
+Le projet concerne cinq sites principaux répartis sur le territoire communal :",../inputs\projets\Projet d'Amélioration des Espaces Verts.pdf,.pdf
+"1. Parc central (5 hectares)
+2. o Réaménagement complet des allées et des plantations
+3. o Création d'une zone humide et d'un jardin botanique
+4. o Installation d'aires de jeux et de sports urbains
+5. o Aménagement d'un kiosque polyvalent
+2. Square Jean Moulin (0,8 hectare)
+7. o Transformation en jardin de pluie avec noues paysagères
+8. o Installation de jeux d'eau écologiques
+9. o Création d'un verger conservatoire
+3. Jardins des Remparts (1,2 hectare)
+11. o Réhabilitation des murets en pierres sèches",../inputs\projets\Projet d'Amélioration des Espaces Verts.pdf,.pdf
+"11. o Réhabilitation des murets en pierres sèches
+12. o Installation de jardins thématiques (aromatiques, médicinales)
+13. o Création d'un théâtre de verdure
+4. Coulée verte des Saules (2,5 hectares)
+15. o Renforcement des berges du ruisseau
+16. o Création d'un parcours sportif et pédagogique
+17. o Aménagement de zones de biodiversité protégées
+5. Square des Écoles (0,5 hectare)
+19. o Transformation en jardin pédagogique
+20. o Installation de potagers partagés",../inputs\projets\Projet d'Amélioration des Espaces Verts.pdf,.pdf
+"20. o Installation de potagers partagés
+21. o Création d'un espace d'observation de la faune",../inputs\projets\Projet d'Amélioration des Espaces Verts.pdf,.pdf
+"Description technique des aménagements
+
+Végétalisation et plantations
+
+- Plantation de 250 arbres d'espèces diversifiées et adaptées au changement climatique
+- Création de 3 500 m² de prairies fleuries mellifères
+- Installation de 1 200 m² de massifs arbustifs à faible besoin en eau
+- Plantation de 4 500 vivaces locales et résistantes à la sécheresse
+- Mise en place de haies champêtres sur 800 mètres linéaires
+- Création de micro-forêts urbaines selon la méthode Miyawaki (2 sites)
+
+## Gestion de l'eau",../inputs\projets\Projet d'Amélioration des Espaces Verts.pdf,.pdf
+"## Gestion de l'eau
+
+- Installation de 5 bassins de rétention paysagers (capacité totale de 450 m³)
+- Création de 1 800 m² de surfaces",../inputs\projets\Projet d'Amélioration des Espaces Verts.pdf,.pdf
+"## Projet de Création du Centre Culturel Innovant
+
+## Présentation générale du projet
+
+Le projet de création du Centre Culturel Innovant constitue une initiative majeure pour notre commune, visant à établir un pôle artistique et culturel rayonnant à l'échelle régionale. Lancé le 20 janvier 2024 avec un budget ambitieux de 1 200 000 €, ce projet structurant s'inscrit dans notre stratégie de développement culturel et de valorisation des talents locaux, tout en renforçant l'attractivité du territoire.",../inputs\projets\Projet de Création du Centre Culturel Innovant.pdf,.pdf
+"## Contexte et justification
+
+Notre commune fait face à plusieurs défis en matière d'offre culturelle :",../inputs\projets\Projet de Création du Centre Culturel Innovant.pdf,.pdf
+"- Absence d'équipement culturel polyvalent de grande capacité
+- Dispersion des activités artistiques dans des locaux inadaptés et vieillissants
+- Difficulté à attirer des événements et artistes de renommée nationale
+- Manque d'espaces dédiés à la création et à l'expérimentation artistique
+- Besoin croissant d'accès à la culture exprimé par la population
+- Potentiel inexploité de talents locaux faute d'infrastructures adéquates
+- Nécessité de dynamiser l'économie locale par le tourisme culturel",../inputs\projets\Projet de Création du Centre Culturel Innovant.pdf,.pdf
+"Ce projet répond à ces enjeux en créant un lieu emblématique, catalyseur de la vie culturelle locale et vecteur d'identité pour notre territoire.
+
+## Objectifs du projet
+
+La création du Centre Culturel Innovant poursuit plusieurs objectifs complémentaires :",../inputs\projets\Projet de Création du Centre Culturel Innovant.pdf,.pdf
+"1. Diversifier l'offre culturelle en proposant une programmation pluridisciplinaire de qualité
+2. Soutenir la création artistique locale en offrant des espaces de travail et de diffusion adaptés
+3. Favoriser l'accès à la culture pour tous grâce à une politique tarifaire inclusive et des actions de médiation
+4. Développer l'éducation artistique en partenariat avec les établissements scolaires
+5. Stimuler l'économie créative en créant un écosystème favorable aux industries culturelles",../inputs\projets\Projet de Création du Centre Culturel Innovant.pdf,.pdf
+"6. Renforcer l'attractivité du territoire par un équipement culturel rayonnant
+7. Créer un lieu de vie et de rencontre favorisant la mixité sociale et intergénérationnelle
+8. Encourager l'innovation dans les pratiques culturelles et artistiques",../inputs\projets\Projet de Création du Centre Culturel Innovant.pdf,.pdf
+"## Description architecturale et fonctionnelle
+
+Le Centre Culturel Innovant s'implantera sur une parcelle de 3 500 m² située à proximité du centre-ville, sur le site d'une ancienne friche industrielle réhabilitée. Le bâtiment de 2 800 m² sur trois niveaux se distinguera par :
+
+## Caractéristiques architecturales",../inputs\projets\Projet de Création du Centre Culturel Innovant.pdf,.pdf
+"## Caractéristiques architecturales
+
+- Architecture contemporaine et écologique, signature visuelle forte
+- Façade principale transparente favorisant le dialogue entre intérieur et extérieur
+- Structure modulable et évolutive permettant différentes configurations
+- Toiture végétalisée avec panneaux photovoltaïques intégrés
+- Accessibilité totale pour les personnes à mobilité réduite
+- Acoustique optimisée pour chaque espace selon son usage
+- Intégration harmonieuse dans le tissu urbain existant",../inputs\projets\Projet de Création du Centre Culturel Innovant.pdf,.pdf
+"## Espaces et fonctionnalités
+
+Le centre comprendra plusieurs espaces complémentaires :",../inputs\projets\Projet de Création du Centre Culturel Innovant.pdf,.pdf
+"- Salle de spectacle polyvalente (400 places assises / 800 debout)
+- o Scène modulable de 120 m²
+- o Équipements scéniques dernière génération
+- o Acoustique variable selon les types de spectacles
+- o Gradins rétractables pour configuration ""salle plate""
+- Espace d'exposition (500 m²)
+- o Murs et cimaises modulables
+- o Éclairage technique adapté aux expositions
+- o Système de projection multisurface
+- o Capacité d'accueil d'œuvres volumineuses
+- Médiathèque nouvelle génération (350 m²)",../inputs\projets\Projet de Création du Centre Culturel Innovant.pdf,.pdf
+"- Médiathèque nouvelle génération (350 m²)
+- o Collections physiques et numériques
+- o Espaces de lecture confortables et isolés
+- o Cabines d'écoute et de visionnage
+- o Zone de jeux vidéo et tablettes
+- Fab Lab et espace numérique (200 m²)
+- o Imprimantes 3D et machines de fabrication numérique
+- o Postes informatiques haute performance
+- o Studio d'enregistrement audio
+- o Équipements de réalité virtuelle et augmentée
+- Ateliers de pratique artistique (4 salles de 60 m²)",../inputs\projets\Projet de Création du Centre Culturel Innovant.pdf,.pdf
+"- Ateliers de pratique artistique (4 salles de 60 m²)
+- o Sols et murs adaptés aux différentes pratiques
+- o Rangements sécurisés pour le matériel
+- o Points d'eau et équipements spécifiques
+- o Insonorisation pour les pratiques musicales
+- Café culturel (150 m²)
+- o Espace de restauration légère et bar
+- o Petite scène pour programmation intimiste
+- o Terrasse extérieure de 80 m²
+- o Bibliothèque participative et jeux de société
+- Espaces extérieurs (700 m²)
+- o Amphithéâtre de plein air (200 places)",../inputs\projets\Projet de Création du Centre Culturel Innovant.pdf,.pdf
+"- o Amphithéâtre de plein air (200 places)
+- o Espace d'exposition extérieur
+- o Jardin artistique et sensoriel
+- o Parvis aménagé pour événements",../inputs\projets\Projet de Création du Centre Culturel Innovant.pdf,.pdf
+"## Innovation et spécificités
+
+Le Centre Culturel Innovant se distinguera par plusieurs caractéristiques uniques :",../inputs\projets\Projet de Création du Centre Culturel Innovant.pdf,.pdf
+"- Approche transmédia mêlant arts traditionnels et numériques
+- Programmation participative impliquant les habitants dans les choix culturels
+- Résidences croisées associant artistes et scientifiques/chercheurs
+- Laboratoire d'expérimentation pour nouvelles formes artistiques
+- Approche inclusive avec dispositifs adaptés aux différents handicaps
+- Bâtiment intelligent à énergie positive et faible empreinte carbone
+- Modèle économique hybride combinant service public et activités génératrices de revenus",../inputs\projets\Projet de Création du Centre Culturel Innovant.pdf,.pdf
+"## Plan de phasage et calendrier prévisionnel
+
+Le projet se déroulera selon les étapes suivantes :
+
+## Phase préparatoire (Janvier - Avril 2024)
+
+- Finalisation des études et obtention des autorisations
+- Consultation des entreprises
+- Mobilisation des financements
+- Constitution de l'équipe projet
+
+## Phase de construction (Mai 2024 - Juillet 2025)",../inputs\projets\Projet de Création du Centre Culturel Innovant.pdf,.pdf
+"## Phase de construction (Mai 2024 - Juillet 2025)
+
+- Travaux de gros œuvre (Mai - Octobre 2024)
+- Second œuvre et aménagements intérieurs (Novembre 2024 - Mars 2025)
+- Installation des équipements techniques (Avril - Mai 2025)
+- Aménagements extérieurs (Juin - Juillet 2025)
+
+## Phase de préfiguration (Mai - Août 2025)
+
+- Recrutement et formation de l'équipe
+- Élaboration de la programmation inaugurale
+- Communication et médiation
+- Tests techniques et rodage",../inputs\projets\Projet de Création du Centre Culturel Innovant.pdf,.pdf
+"## Inauguration et ouverture au public : Septembre 2025 Budget détaillé et financement
+
+Le budget global de 1 200 000 € se répartit comme suit :",../inputs\projets\Projet de Création du Centre Culturel Innovant.pdf,.pdf
+"Le budget global de 1 200 000 € se répartit comme suit :
+
+- Études, conception et maîtrise d'œuvre : 120 000 € (10%)
+- Acquisition et préparation du terrain : 180 000 € (15%)
+- Construction et gros œuvre : 480 000 € (40%)
+- Second œuvre et aménagements intérieurs : 180 000 € (15%)
+- Équipements techniques et scéniques : 144 000 € (12%)
+- Aménagements extérieurs : 60 000 € (5%)
+- Communication et inauguration : 36 000 € (3%)
+
+## Le financement sera assuré par :",../inputs\projets\Projet de Création du Centre Culturel Innovant.pdf,.pdf
+"## Le financement sera assuré par :
+
+- Budget municipal : 480 000 € (40%)
+- Subvention régionale : 360 000 € (30%)
+- Fonds européen de développement régional : 240 000 € (20%)
+- Mécénat d'entreprises locales : 120 000 € (10%)
+
+## Modèle économique et fonctionnement
+
+Le Centre Culturel Innovant adoptera un modèle économique mixte :
+
+## Sources de revenus",../inputs\projets\Projet de Création du Centre Culturel Innovant.pdf,.pdf
+"## Sources de revenus
+
+- Billetterie des spectacles et expositions
+- Location d'espaces pour événements privés
+- Adhésions et abonnements
+- Recettes du café culturel (en délégation)
+- Prestations de services (formations, accompagnement de projets)
+- Vente de produits dérivés
+- Mécénat et partenariats d'entreprises
+
+## Structure de coûts annuels estimés
+
+- Masse salariale (8 ETP) : 320 000 €
+
+- Programmation artistique : 200 000 €
+
+- Fonctionnement technique : 95 000 €",../inputs\projets\Projet de Création du Centre Culturel Innovant.pdf,.pdf
+"- Fonctionnement technique : 95 000 €
+
+- Communication et médiation : 65 000 €
+
+- Maintenance et entretien : 45 000 €
+
+- Administration et divers : 35 000 €
+
+## Gouvernance et statut juridique
+
+Le centre sera géré sous forme d'Établissement Public à Caractère Culturel (EPCC), avec un conseil d'administration composé de :",../inputs\projets\Projet de Création du Centre Culturel Innovant.pdf,.pdf
+"- Représentants de la commune (majorité)
+- Représentants de la région et du département
+- Personnalités qualifiées du monde culturel
+- Représentants des usagers et des associations locales
+
+## Organigramme et ressources humaines
+
+L'équipe permanente comprendra 8 personnes :",../inputs\projets\Projet de Création du Centre Culturel Innovant.pdf,.pdf
+"L'équipe permanente comprendra 8 personnes :
+
+- 1 directeur/directrice
+- 1 administrateur/administratrice
+- 1 responsable technique
+- 1 chargé(e) de programmation
+- 1 médiateur/médiatrice culturel(le)
+- 1 responsable communication
+- 1 régisseur/régisseuse général(e)
+- 1 agent d'accueil et de billetterie
+
+Cette équipe sera complétée par des intermittents du spectacle, des prestataires et des bénévoles selon les besoins.
+
+## Programmation culturelle envisagée",../inputs\projets\Projet de Création du Centre Culturel Innovant.pdf,.pdf
+"## Programmation culturelle envisagée
+
+La programmation s'articulera autour de quatre axes principaux :
+
+## 1. Diffusion artistique
+
+- o 25 à 30 spectacles vivants par saison (théâtre, danse, musique, cirque)
+- o 4 à 6 expositions temporaires par an
+- o Projections, performances et événements pluridisciplinaires
+
+## 2. Soutien à la création",../inputs\projets\Projet de Création du Centre Culturel Innovant.pdf,.pdf
+"## 2. Soutien à la création
+
+- o 8 à 10 résidences d'artistes annuelles
+- o Coproductions avec des compagnies locales et nationales
+- o Laboratoire de recherche artistique
+3. Médiation et éducation artistique
+- o Ateliers de pratique amateur pour tous les âges
+- o Parcours d'éducation artistique avec les écoles
+- o Rencontres avec les artistes et conférences
+
+## 4. Innovation et expérimentation
+
+- o Projets arts-sciences
+- o Créations numériques et immersives
+- o Hackathons culturels et défis créatifs",../inputs\projets\Projet de Création du Centre Culturel Innovant.pdf,.pdf
+"## Stratégie de communication et de médiation
+
+La communication du Centre Culturel Innovant s'appuiera sur :
+
+- Identité visuelle forte et déclinable
+- Site web interactif et applications mobiles
+- Présence active sur les réseaux sociaux
+- Programme de saison imprimé et numérique
+- Partenariats médias locaux et nationaux
+- Signalétique urbaine et événementielle
+- Ambassadeurs bénévoles dans les quartiers
+
+La médiation culturelle sera au cœur du projet avec :",../inputs\projets\Projet de Création du Centre Culturel Innovant.pdf,.pdf
+"La médiation culturelle sera au cœur du projet avec :
+
+- Visites guidées et ateliers de découverte
+- Documentation adaptée aux différents publics
+- Actions spécifiques pour les publics éloignés de la culture
+- Collaborations avec les établissements scolaires et structures sociales
+- Formation des acteurs éducatifs et sociaux
+
+## Partenariats et réseaux
+
+Le Centre Culturel Innovant s'inscrira dans un maillage de partenariats :",../inputs\projets\Projet de Création du Centre Culturel Innovant.pdf,.pdf
+"- Établissements scolaires et universitaires
+- Structures culturelles régionales et nationales
+- Entreprises locales et industries créatives
+- Associations et collectifs d'artistes
+- Institutions sociales et médico-sociales
+- Réseaux professionnels (Scènes nationales, FRAC, etc.)
+
+## Impact territorial et retombées attendues
+
+Le Centre Culturel Innovant générera des bénéfices multiples :
+
+## Impact économique",../inputs\projets\Projet de Création du Centre Culturel Innovant.pdf,.pdf
+"## Impact économique
+
+- Création directe de 8 emplois permanents et 15 équivalents temps plein indirects
+- Développement du tourisme culturel (+15% de fréquentation attendue)
+- Dynamisation des commerces de proximité
+- Valorisation de l'image du territoire et attractivité pour les entreprises
+
+## Impact social",../inputs\projets\Projet de Création du Centre Culturel Innovant.pdf,.pdf
+"## Impact social
+
+- Renforcement du lien social et intergénérationnel
+- Valorisation des talents et savoir-faire locaux
+- Développement de l'esprit critique et créatif
+- Sentiment d'appartenance et fierté territoriale
+
+## Impact urbain
+
+- Réhabilitation d'une friche industrielle
+- Création d'un nouveau pôle d'attraction dans la ville
+- Aménagement d'un espace public de qualité
+- Contribution à la mixité fonctionnelle du quartier
+
+## Évaluation et indicateurs de suivi",../inputs\projets\Projet de Création du Centre Culturel Innovant.pdf,.pdf
+"## Évaluation et indicateurs de suivi
+
+L'évaluation du Centre Culturel Innovant s'appuiera sur :
+
+- Indicateurs quantitatifs : fréquentation, nombre d'événements, équilibre budgétaire
+- Indicateurs qualitatifs : satisfaction des publics, diversité des participants, impact éducatif
+- Enquêtes annuelles auprès des usagers et non-usagers
+- Comité d'évaluation indépendant
+- Rapport d'activité public et transparent
+
+## Conclusion",../inputs\projets\Projet de Création du Centre Culturel Innovant.pdf,.pdf
+"Le Centre Culturel Innovant représente bien plus qu'un simple équipement : c'est un projet de territoire fédérateur, un levier de développement et un symbole de notre ambition culturelle. En créant ce lieu unique, notre commune affirme sa volonté de placer l'art et la culture au cœur de son développement, tout en répondant aux attentes de ses habitants",../inputs\projets\Projet de Création du Centre Culturel Innovant.pdf,.pdf
+". Carrefour de créativité, d'apprentissage et de partage, le Centre Culturel Innovant incarnera notre vision d'une commune dynamique, inclusive et tournée vers l'avenir.",../inputs\projets\Projet de Création du Centre Culturel Innovant.pdf,.pdf
+"Cette réalisation marquera durablement le paysage culturel local et régional, offrant aux générations présentes et futures un espace d'expression, d'émerveillement et de réflexion. Elle constituera un investissement structurant dont les retombées dépasseront largement le seul domaine culturel, pour rayonner sur l'ensemble du développement territorial.",../inputs\projets\Projet de Création du Centre Culturel Innovant.pdf,.pdf
+"## Projet de Modernisation de l'Éclairage Public
+
+## Présentation générale du projet
+
+Le projet de modernisation de l'éclairage public représente une initiative stratégique pour notre commune, visant à remplacer les infrastructures lumineuses obsolètes par un système LED intelligent et durable. Lancé le 15 octobre 2023 avec un budget de 300 000 €, ce projet s'inscrit dans notre démarche globale de transition écologique et d'amélioration du cadre de vie urbain.
+
+## Contexte et justification",../inputs\projets\Projet de Modernisation de l eclairage public.pdf,.pdf
+"## Contexte et justification
+
+L'éclairage public de notre commune présente actuellement plusieurs problématiques urgentes qui nécessitent une intervention coordonnée :",../inputs\projets\Projet de Modernisation de l eclairage public.pdf,.pdf
+"- Des installations vieillissantes datant pour certaines de plus de 30 ans
+- Une consommation énergétique excessive (environ 35% de la facture électrique municipale)
+- Des pannes récurrentes générant des zones d'insécurité
+- Un éclairage inadapté aux besoins réels des différentes zones urbaines
+- Une pollution lumineuse affectant la biodiversité nocturne
+- Des coûts de maintenance en constante augmentation",../inputs\projets\Projet de Modernisation de l eclairage public.pdf,.pdf
+"Ce projet s'articule harmonieusement avec d'autres initiatives municipales comme la rénovation de la voirie centrale, le développement de l'internet municipal et la mise en place du système de surveillance urbaine, créant ainsi une synergie bénéfique pour l'infrastructure urbaine globale.
+
+## Objectifs du projet
+
+La modernisation de l'éclairage public vise plusieurs objectifs complémentaires :",../inputs\projets\Projet de Modernisation de l eclairage public.pdf,.pdf
+"1. Réduire la consommation énergétique par le passage aux technologies LED de dernière génération
+2. Diminuer les coûts de fonctionnement grâce à des équipements moins énergivores et plus durables
+3. Améliorer la qualité de l'éclairage pour une meilleure sécurité des habitants
+4. Limiter la pollution lumineuse par une gestion intelligente des flux lumineux
+5. Valoriser le patrimoine architectural par un éclairage adapté aux monuments",../inputs\projets\Projet de Modernisation de l eclairage public.pdf,.pdf
+"6. Créer un réseau d'éclairage connecté pilotable à distance et programmable
+7. Développer un système résilient face aux coupures et conditions météorologiques extrêmes",../inputs\projets\Projet de Modernisation de l eclairage public.pdf,.pdf
+"## Périmètre d'intervention
+
+Le projet concerne l'ensemble de la commune avec une priorité sur les zones suivantes :
+
+- Centre-ville historique (250 points lumineux)
+- Axes principaux de circulation (180 points lumineux)
+- Abords des établissements scolaires (75 points lumineux)
+- Zones résidentielles prioritaires (220 points lumineux)
+- Parcs et jardins publics (95 points lumineux)
+
+Au total, 820 points lumineux seront remplacés ou modernisés, représentant environ 65% du parc d'éclairage public communal.",../inputs\projets\Projet de Modernisation de l eclairage public.pdf,.pdf
+"## Description technique des travaux
+
+## Diagnostic préalable
+
+- Audit complet de l'existant avec cartographie géoréférencée
+- Mesures photométriques sur tous les secteurs concernés
+- Analyse de la vétusté des supports et réseaux d'alimentation
+- Étude d'impact environnemental et énergétique
+- Modélisation des nouveaux besoins par quartier
+
+## Remplacement des équipements",../inputs\projets\Projet de Modernisation de l eclairage public.pdf,.pdf
+"## Remplacement des équipements
+
+- Dépose des anciennes lanternes à sodium haute pression et à vapeur de mercure
+- Installation de luminaires LED à haute efficacité énergétique (&gt;140 lm/W)
+- Mise en place de contrôleurs intelligents sur chaque point lumineux
+- Remplacement des armoires électriques vétustes
+- Rénovation des supports présentant des signes de corrosion ou d'instabilité
+- Mise aux normes des réseaux d'alimentation souterrains
+
+## Système de gestion intelligente",../inputs\projets\Projet de Modernisation de l eclairage public.pdf,.pdf
+"## Système de gestion intelligente
+
+- Déploiement d'un réseau maillé sans fil pour la communication inter-luminaires
+- Installation d'un système de télégestion centralisée
+- Mise en place de capteurs de présence dans les zones à faible fréquentation
+- Intégration de photocellules pour l'adaptation à la luminosité ambiante
+- Développement d'une interface de pilotage pour les services techniques
+
+## Spécifications techniques des nouveaux équipements",../inputs\projets\Projet de Modernisation de l eclairage public.pdf,.pdf
+"## Spécifications techniques des nouveaux équipements
+
+- Luminaires LED avec IRC (Indice de Rendu des Couleurs) &gt; 80
+- Température de couleur adaptée aux usages : 3000K en zones résidentielles, 4000K sur les axes routiers
+- Indice de protection IP66 minimum et IK08 contre le vandalisme
+- Durée de vie minimale de 100 000 heures (L80B10)
+- Garantie constructeur de 10 ans sur l'ensemble des équipements
+- Dispositifs de protection contre les surtensions intégrés
+
+## Innovations et approche durable",../inputs\projets\Projet de Modernisation de l eclairage public.pdf,.pdf
+"## Innovations et approche durable
+
+Le projet intègre plusieurs innovations majeures :
+
+- Système de gradation automatique selon les heures et la fréquentation
+- Détection de présence intelligente avec ""vague lumineuse"" suivant les piétons
+- Alimentation hybride (réseau/solaire) pour certains points stratégiques
+- Éclairage adaptatif selon les conditions météorologiques
+- Capteurs environnementaux intégrés (qualité de l'air, bruit, trafic)
+- Solutions anti-éblouissement pour préserver la faune nocturne",../inputs\projets\Projet de Modernisation de l eclairage public.pdf,.pdf
+"## Plan de phasage et calendrier prévisionnel
+
+Le déploiement s'effectuera selon un calendrier en 5 phases :
+
+## Phase 1 (Octobre - Novembre 2023)
+
+- Diagnostic approfondi et cartographie complète
+- Commande des équipements et préparation logistique
+
+## Phase 2 (Décembre 2023 - Janvier 2024)
+
+- Centre-ville et axes principaux
+- Mise en place du système de gestion centralisée
+
+## Phase 3 (Février - Mars 2024)
+
+- Abords des établissements scolaires
+- Zones résidentielles prioritaires (secteur nord)",../inputs\projets\Projet de Modernisation de l eclairage public.pdf,.pdf
+"## Phase 4 (Avril - Mai 2024)
+
+- Zones résidentielles prioritaires (secteur sud)
+- Parcs et jardins publics
+
+## Phase 5 (Juin 2024)
+
+- Tests, ajustements et optimisation du système
+- Formation du personnel municipal
+
+La réception définitive du projet est programmée pour fin juin 2024, soit une durée totale de 8 mois.
+
+## Budget détaillé
+
+Le budget global de 300 000 € se répartit comme suit :",../inputs\projets\Projet de Modernisation de l eclairage public.pdf,.pdf
+"Le budget global de 300 000 € se répartit comme suit :
+
+- Études préalables et ingénierie : 21 000 € (7%)
+- Fourniture des luminaires LED : 165 000 € (55%)
+- Système de gestion intelligente : 45 000 € (15%)
+- Main d'œuvre et installation : 51 000 € (17%)
+- Rénovation des supports et réseaux : 15 000 € (5%)
+- Imprévus et divers : 3 000 € (1%)
+
+## Analyse financière et rentabilité
+
+L'investissement sera amorti par les économies réalisées :",../inputs\projets\Projet de Modernisation de l eclairage public.pdf,.pdf
+"L'investissement sera amorti par les économies réalisées :
+
+- Consommation électrique actuelle : 850 MWh/an
+- Consommation électrique projetée : 255 MWh/an
+- Économie annuelle : 595 MWh, soit environ 89 250 € au tarif actuel
+- Réduction des coûts de maintenance estimée à 15 000 €/an
+- Retour sur investissement calculé à 2,9 ans
+- Économies cumulées sur 15 ans (durée de vie minimale) : 1,56 million €
+
+## Organisation et gouvernance",../inputs\projets\Projet de Modernisation de l eclairage public.pdf,.pdf
+"## Organisation et gouvernance
+
+Le projet est piloté par le service Énergie et Développement Durable en collaboration avec :
+
+- La Direction des Services Techniques
+- Un bureau d'études spécialisé en éclairage public
+- Le Syndicat Départemental d'Énergie (partenaire financier)
+
+Un comité technique se réunit bimensuellement pour suivre l'avancement du projet, comprenant :",../inputs\projets\Projet de Modernisation de l eclairage public.pdf,.pdf
+"- Le responsable du service Énergie
+- L'adjoint au maire chargé du développement durable
+- Le directeur des services techniques
+- Un représentant de la police municipale
+- Un expert en biodiversité
+- Un représentant de l'association d'astronomie locale
+
+## Plan de communication et sensibilisation
+
+Une campagne d'information sera déployée tout au long du projet :",../inputs\projets\Projet de Modernisation de l eclairage public.pdf,.pdf
+"- Réunions publiques par quartier avant chaque phase d'intervention
+- Panneaux explicatifs sur les points de chantier
+- Articles dans le journal municipal et sur le site web
+- Application mobile informant des zones en cours de modernisation
+- Animations pédagogiques sur les économies d'énergie dans les écoles
+- Balades nocturnes commentées après rénovation pour montrer les améliorations
+
+## Impact environnemental
+
+Le projet aura des bénéfices environnementaux significatifs :",../inputs\projets\Projet de Modernisation de l eclairage public.pdf,.pdf
+"Le projet aura des bénéfices environnementaux significatifs :
+
+- Réduction de 70% de la consommation électrique liée à l'éclairage
+- Diminution de l'empreinte carbone de 47 tonnes de CO2 par an
+- Réduction de la pollution lumineuse de 65% (mesurée en lux débordant)
+- Création de ""trames noires"" favorables à la biodiversité
+- Conformité aux exigences de l'arrêté du 27 décembre 2018 relatif à la prévention des nuisances lumineuses
+
+## Indicateurs de suivi et évaluation",../inputs\projets\Projet de Modernisation de l eclairage public.pdf,.pdf
+"## Indicateurs de suivi et évaluation
+
+L'efficacité du projet sera mesurée par :
+
+- Suivi mensuel de la consommation électrique
+- Cartographie de la pollution lumineuse avant/après
+- Nombre d'interventions de maintenance
+- Enquêtes de satisfaction auprès des habitants
+- Mesures de l'impact sur la biodiversité locale (protocoles standardisés)
+- Taux de disponibilité du réseau d'éclairage (temps de fonctionnement)
+
+## Gestion des risques",../inputs\projets\Projet de Modernisation de l eclairage public.pdf,.pdf
+"## Gestion des risques
+
+Plusieurs risques ont été identifiés et des mesures d'atténuation prévues :
+
+- Difficultés d'approvisionnement : commandes anticipées et fournisseurs multiples
+- Compatibilité avec les infrastructures existantes : diagnostics préalables approfondis
+- Acceptation du public : campagne d'information et période de test
+- Conditions météorologiques défavorables : planification tenant compte des saisons
+- Cybermenaces sur le système intelligent : protocoles de sécurité renforcés",../inputs\projets\Projet de Modernisation de l eclairage public.pdf,.pdf
+"## Perspectives et développements futurs
+
+Ce projet constitue la première étape d'une vision plus large :
+
+- Extension aux 35% restants du parc d'éclairage d'ici 2026
+- Intégration de l'éclairage public au projet de ""ville intelligente""
+- Développement de services connectés via le réseau d'éclairage
+- Expérimentation de revêtements routiers photoluminescents
+- Exploitation des données collectées pour optimiser d'autres services municipaux
+
+## Impact sur la vie quotidienne des habitants",../inputs\projets\Projet de Modernisation de l eclairage public.pdf,.pdf
+"## Impact sur la vie quotidienne des habitants
+
+La modernisation de l'éclairage public aura des effets tangibles sur :
+
+- La sécurité des déplacements nocturnes
+- La qualité du sommeil grâce à la réduction de la pollution lumineuse
+- L'ambiance urbaine et l'attractivité des espaces publics
+- La mise en valeur du patrimoine architectural
+- Le sentiment de sécurité dans les espaces publics
+- La redécouverte du ciel étoilé en milieu urbain
+
+## Conclusion",../inputs\projets\Projet de Modernisation de l eclairage public.pdf,.pdf
+"## Conclusion
+
+Le projet de modernisation de l'éclairage public représente bien plus qu'une simple mise à niveau technique. C'est une transformation profonde de notre environnement nocturne, conciliant sécurité, économies d'énergie, respect de l'environnement et innovation technologique. Par son approche globale et sa conception durable, il incarnera la vision d'une commune responsable et tournée vers l'avenir, tout en générant des bénéfices immédiats et mesurables pour tous les habitants.",../inputs\projets\Projet de Modernisation de l eclairage public.pdf,.pdf
+"## Projet de Rénovation de la Voirie Centrale
+
+## Présentation générale du projet
+
+La rénovation de la voirie centrale représente un projet structurant pour notre commune, visant à transformer profondément l'aspect et la fonctionnalité du cœur de notre ville. Avec un budget alloué de 750 000 €, ce projet ambitieux mais nécessaire a été lancé le 1er septembre 2023 pour répondre aux défis de mobilité urbaine, d'accessibilité et d'esthétique de notre centre-ville.
+
+## Contexte et justification",../inputs\projets\Projet de Rénovation de la Voirie Centrale.pdf,.pdf
+"## Contexte et justification
+
+Notre centre-ville, avec ses rues historiques et ses infrastructures vieillissantes, fait face à plusieurs problématiques urgentes :
+
+- Une chaussée détériorée présentant de nombreux nids-de-poule et fissures
+- Des trottoirs inadaptés aux personnes à mobilité réduite
+- Une signalisation obsolète et insuffisante
+- Un manque d'espaces dédiés aux mobilités douces
+- Un réseau d'évacuation des eaux pluviales défaillant
+- Un mobilier urbain vétuste et peu harmonieux",../inputs\projets\Projet de Rénovation de la Voirie Centrale.pdf,.pdf
+"Cette rénovation s'inscrit dans une vision plus large de redynamisation du centre-ville, en lien avec d'autres projets comme le réaménagement de la place du marché et le développement des pistes cyclables. Elle contribuera significativement à l'amélioration du cadre de vie des habitants et à l'attractivité commerciale et touristique de notre commune.
+
+## Objectifs du projet
+
+La rénovation de la voirie centrale poursuit plusieurs objectifs clés :",../inputs\projets\Projet de Rénovation de la Voirie Centrale.pdf,.pdf
+"1. Améliorer la sécurité routière et piétonnière par une refonte complète de la chaussée et des zones de circulation
+2. Favoriser l'accessibilité universelle en supprimant les obstacles architecturaux et en adaptant les infrastructures
+3. Promouvoir les mobilités douces par l'intégration d'aménagements cyclables et de zones partagées
+4. Embellir l'espace public grâce à des matériaux de qualité et un design urbain cohérent",../inputs\projets\Projet de Rénovation de la Voirie Centrale.pdf,.pdf
+"5. Moderniser les réseaux souterrains pour prévenir les problèmes d'infiltration et d'inondation
+6. Dynamiser l'économie locale en créant un environnement propice à la fréquentation des commerces
+7. Réduire l'impact environnemental par l'utilisation de matériaux durables et la création d'îlots de fraîcheur",../inputs\projets\Projet de Rénovation de la Voirie Centrale.pdf,.pdf
+"## Périmètre d'intervention
+
+Le projet concerne les axes suivants :
+
+- Avenue de la République (600 mètres)
+- Rue Victor Hugo (350 mètres)
+- Place de l'Hôtel de Ville et ses abords (superficie de 2 800 m²)
+- Rue du Commerce (250 mètres)
+- Intersection principale avec la rue des Écoles
+
+Soit un total d'environ 1,5 kilomètre de voies à réhabiliter intégralement et près de 15 000 m² de surface à traiter.
+
+## Description technique des travaux
+
+## Phase préparatoire",../inputs\projets\Projet de Rénovation de la Voirie Centrale.pdf,.pdf
+"## Description technique des travaux
+
+## Phase préparatoire
+
+- Études géotechniques complémentaires
+- Diagnostic des réseaux souterrains existants
+- Installation de la base vie du chantier
+- Mise en place de la signalisation temporaire et des déviations
+- Communication auprès des riverains et commerçants
+
+## Travaux de voirie",../inputs\projets\Projet de Rénovation de la Voirie Centrale.pdf,.pdf
+"## Travaux de voirie
+
+- Décaissement et évacuation des anciennes couches de roulement
+- Renforcement de la structure de chaussée
+- Pose d'une nouvelle couche de roulement en enrobé phonique
+- Traitement des intersections par des plateaux surélevés
+- Création de zones 30 et de zones de rencontre limitées à 20 km/h
+- Installation de ralentisseurs aux endroits stratégiques
+
+## Aménagements piétonniers et cyclables",../inputs\projets\Projet de Rénovation de la Voirie Centrale.pdf,.pdf
+"## Aménagements piétonniers et cyclables
+
+- Élargissement des trottoirs (minimum 1,80 m de largeur)
+- Création de bandes cyclables sécurisées (largeur 1,50 m)
+- Installation de supports à vélos aux points stratégiques
+- Mise en place de passages piétons surélevés et podotactiles
+- Suppression de toutes les barrières architecturales
+
+## Réseaux et évacuation des eaux",../inputs\projets\Projet de Rénovation de la Voirie Centrale.pdf,.pdf
+"## Réseaux et évacuation des eaux
+
+- Réfection du réseau d'évacuation des eaux pluviales
+- Installation de noues paysagères pour la gestion alternative des eaux
+- Mise en place de regards et d'avaloirs nouvelle génération
+- Intégration de systèmes de filtration des eaux de ruissellement
+
+## Aménagement paysager et mobilier urbain",../inputs\projets\Projet de Rénovation de la Voirie Centrale.pdf,.pdf
+"## Aménagement paysager et mobilier urbain
+
+- Plantation de 35 arbres d'alignement adaptés au milieu urbain
+- Installation de 12 jardinières intégrées au paysage urbain
+- Pose de 28 bancs publics ergonomiques et inclusifs
+- Mise en place de 40 corbeilles de tri sélectif
+- Installation de 15 fontaines d'eau potable
+- Renouvellement complet de l'éclairage public (voir projet ""Modernisation de l'éclairage public"")
+
+## Innovations et approche durable
+
+Le projet intègre plusieurs innovations significatives :",../inputs\projets\Projet de Rénovation de la Voirie Centrale.pdf,.pdf
+"Le projet intègre plusieurs innovations significatives :
+
+- Utilisation d'enrobés recyclés à hauteur de 30% minimum
+- Mise en œuvre d'un béton drainant sur certaines zones piétonnes
+- Intégration de matériaux biosourcés pour le mobilier urbain
+- Création de ""rues jardins"" avec une forte présence végétale
+- Mise en place d'un système de récupération des eaux de pluie pour l'arrosage
+- Intégration de capteurs urbains pour la mesure de la qualité de l'air et du bruit",../inputs\projets\Projet de Rénovation de la Voirie Centrale.pdf,.pdf
+"## Plan de phasage et calendrier prévisionnel
+
+Le projet s'articule autour de 4 phases principales :
+
+## Phase 1 (Septembre - Novembre 2023)
+
+- Avenue de la République (section nord)
+- Diagnostic approfondis et travaux préparatoires
+
+## Phase 2 (Décembre 2023 - Février 2024)
+
+- Avenue de la République (section sud)
+- Place de l'Hôtel de Ville
+
+## Phase 3 (Mars - Mai 2024)
+
+- Rue Victor Hugo
+- Intersection avec la rue des Écoles
+
+## Phase 4 (Juin - Août 2024)",../inputs\projets\Projet de Rénovation de la Voirie Centrale.pdf,.pdf
+"## Phase 4 (Juin - Août 2024)
+
+- Rue du Commerce
+- Finitions et aménagements paysagers
+
+La réception définitive des travaux est prévue pour septembre 2024, soit une durée totale de 12 mois.
+
+## Budget détaillé
+
+Le budget global de 750 000 € se décompose comme suit :",../inputs\projets\Projet de Rénovation de la Voirie Centrale.pdf,.pdf
+"Le budget global de 750 000 € se décompose comme suit :
+
+- Études préalables et maîtrise d'œuvre : 60 000 € (8%)
+- Travaux de voirie et structure : 375 000 € (50%)
+- Réseaux d'évacuation et assainissement : 112 500 € (15%)
+- Aménagements cyclables et piétonniers : 90 000 € (12%)
+- Mobilier urbain et éclairage : 67 500 € (9%)
+- Végétalisation et espaces verts : 45 000 € (6%)
+
+## Organisation et gouvernance
+
+Le projet est piloté par la Direction des Services Techniques municipaux, en collaboration avec :",../inputs\projets\Projet de Rénovation de la Voirie Centrale.pdf,.pdf
+"- Un cabinet d'architecture urbaine (mandataire)
+- Un bureau d'études techniques spécialisé en VRD
+- Un paysagiste-concepteur
+- Un expert en mobilité urbaine
+
+Un comité de pilotage se réunit mensuellement, intégrant :
+
+- L'élu référent à l'urbanisme et aux travaux
+- Le directeur général des services
+- Le directeur des services techniques
+- Les représentants des commerçants du centre-ville
+- Un représentant des associations de quartier
+- Un représentant de l'association des personnes à mobilité réduite",../inputs\projets\Projet de Rénovation de la Voirie Centrale.pdf,.pdf
+"## Plan de communication et concertation
+
+Une stratégie de communication à 360° a été élaborée :
+
+- Réunions publiques trimestrielles avec les habitants
+- Permanence hebdomadaire d'information sur le chantier
+- Site web dédié avec actualités et avancement du projet
+- Application mobile de signalement des problèmes liés au chantier
+- Panneaux d'information sur site avec QR codes interactifs
+- Journal de chantier mensuel distribué aux riverains
+- Visites pédagogiques pour les écoles et centres de loisirs",../inputs\projets\Projet de Rénovation de la Voirie Centrale.pdf,.pdf
+"## Impact sur la vie locale et mesures d'atténuation
+
+Pour limiter les nuisances pendant les travaux :
+
+- Travail par sections limitées à 150 mètres maximum
+- Maintien systématique des accès aux commerces et habitations
+- Aménagement de parcours piétons sécurisés
+- Limitation des horaires de travaux bruyants
+- Dispositif d'indemnisation pour les commerçants fortement impactés
+- Service de livraison mutualisé pendant les périodes de travaux
+
+## Bénéfices attendus",../inputs\projets\Projet de Rénovation de la Voirie Centrale.pdf,.pdf
+"## Bénéfices attendus
+
+Ce projet de rénovation apportera de nombreux avantages à notre commune :",../inputs\projets\Projet de Rénovation de la Voirie Centrale.pdf,.pdf
+"- Réduction de 30% des accidents de circulation en centre-ville
+- Augmentation de 25% de la fréquentation piétonne
+- Hausse estimée de 15% du chiffre d'affaires des commerces après rénovation
+- Diminution des îlots de chaleur urbains de 2 à 3°C en période estivale
+- Réduction du bruit de circulation de 4 à 6 décibels
+- Amélioration de la qualité de l'air par la réduction du trafic automobile
+- Création d'un cadre de vie plus agréable et valorisation du patrimoine immobilier",../inputs\projets\Projet de Rénovation de la Voirie Centrale.pdf,.pdf
+- Renforcement de l'identité urbaine et du sentiment d'appartenance,../inputs\projets\Projet de Rénovation de la Voirie Centrale.pdf,.pdf
+"## Évaluation et indicateurs de suivi
+
+Le succès du projet sera mesuré par :
+
+- Le respect des délais et du budget prévisionnel
+- Des enquêtes de satisfaction auprès des usagers et commerçants
+- Des comptages piétons et cyclistes avant/après
+- Des mesures de qualité de l'air et du bruit
+- L'évolution de la vacance commerciale
+- Le nombre d'événements organisés dans l'espace public rénové
+- La réduction des interventions d'entretien sur la voirie à moyen terme
+
+## Perspectives et évolutions futures",../inputs\projets\Projet de Rénovation de la Voirie Centrale.pdf,.pdf
+"## Perspectives et évolutions futures
+
+Cette rénovation servira de projet pilote pour les futures interventions sur la voirie communale. Les innovations testées et les retours d'expérience permettront d'affiner notre approche pour les autres quartiers. Le projet s'inscrit dans une vision d'évolution progressive vers une ville plus durable, plus accessible et plus agréable à vivre.
+
+## Conclusion",../inputs\projets\Projet de Rénovation de la Voirie Centrale.pdf,.pdf
+"La rénovation de la voirie centrale constitue bien plus qu'une simple réfection technique. C'est un projet transformateur qui redonnera au cœur de notre ville sa splendeur et sa fonctionnalité, tout en préparant l'avenir. Par son approche intégrée, il répond aux multiples enjeux urbains contemporains : mobilité durable, accessibilité universelle, résilience climatique et qualité de vie",../inputs\projets\Projet de Rénovation de la Voirie Centrale.pdf,.pdf
+". L'investissement consenti aujourd'hui portera ses fruits pour les décennies à venir, faisant de notre centre-ville un espace à la hauteur des attentes de tous ses usagers.",../inputs\projets\Projet de Rénovation de la Voirie Centrale.pdf,.pdf
+"## Réaménagement de la place du Marché
+
+## Aperçu du projet
+
+Le réaménagement de la place du Marché est un projet d'urbanisme stratégique d'une valeur de 500 000 €, dont le lancement est prévu le 5 octobre 2023. Cette initiative vise à transformer cet espace public central en un lieu dynamique et attractif qui stimulera l'activité commerciale locale tout en améliorant la qualité de vie des habitants.
+
+## Contexte et justification
+
+## État actuel de la place",../inputs\projets\Réaménagement de la place du Marché.pdf,.pdf
+"## Contexte et justification
+
+## État actuel de la place
+
+La place du Marché, bien que située au cœur historique de notre commune, souffre actuellement de plusieurs problématiques : configuration spatiale obsolète, mobilier urbain vieillissant, manque d'espaces conviviaux, et accessibilité limitée. Le marché hebdomadaire qui s'y tient perd progressivement de son attractivité, impactant négativement les commerçants et l'animation du centre-ville.
+
+## Études préliminaires",../inputs\projets\Réaménagement de la place du Marché.pdf,.pdf
+"## Études préliminaires
+
+Les consultations citoyennes menées au cours des derniers mois ont révélé une forte attente des habitants pour un espace plus convivial, plus vert et mieux adapté aux diverses activités commerciales et culturelles. L'analyse économique démontre également qu'un réaménagement qualitatif pourrait augmenter la fréquentation du centre-ville de 25% et stimuler l'implantation de nouveaux commerces.
+
+## Bénéfices attendus",../inputs\projets\Réaménagement de la place du Marché.pdf,.pdf
+"## Bénéfices attendus
+
+- Revitalisation du commerce local avec une augmentation prévue du chiffre d'affaires de 15%
+- Amélioration de l'attractivité touristique du centre historique
+- Renforcement du lien social par la création d'un espace de rencontre et d'échange
+- Valorisation du patrimoine architectural environnant
+- Développement des activités culturelles et événementielles en plein air
+
+## Description détaillée du projet
+
+## Concept d'aménagement",../inputs\projets\Réaménagement de la place du Marché.pdf,.pdf
+"## Description détaillée du projet
+
+## Concept d'aménagement
+
+Le projet s'articule autour du concept de ""place-jardin multifonctionnelle"", alliant esthétique, fonctionnalité et durabilité. La nouvelle configuration créera différentes zones dédiées aux marchés, aux terrasses de café, aux événements culturels et aux espaces de détente, tout en préservant l'identité historique du lieu. Le design s'inspirera de l'architecture locale traditionnelle tout en introduisant des éléments contemporains.",../inputs\projets\Réaménagement de la place du Marché.pdf,.pdf
+"## Éléments principaux
+
+Le réaménagement comprendra :",../inputs\projets\Réaménagement de la place du Marché.pdf,.pdf
+"- Nouvelle pavage en pierre naturelle locale avec motifs traditionnels réinterprétés
+- Création d'une fontaine centrale interactive, élément architectural emblématique
+- Installation de kiosques modulaires pour les commerçants du marché
+- Aménagement d'un espace scénique polyvalent pour manifestations culturelles
+- Plantation d'arbres et végétaux adaptés au climat local créant des zones ombragées
+- Mobilier urbain innovant et confortable (bancs, tables, supports vélos)",../inputs\projets\Réaménagement de la place du Marché.pdf,.pdf
+"- Éclairage architectural et ambiant à basse consommation énergétique
+- Systèmes d'alimentation électrique et d'eau intégrés pour les commerçants et événements",../inputs\projets\Réaménagement de la place du Marché.pdf,.pdf
+"## Innovations techniques et durables
+
+- Revêtements de sol perméables facilitant la gestion des eaux pluviales
+- Système d'arrosage automatique utilisant l'eau de pluie récupérée
+- Éclairage intelligent adaptatif selon l'heure et la fréquentation
+- Mobilier urbain fabriqué à partir de matériaux recyclés et locaux
+- Points de recharge pour appareils électroniques fonctionnant à l'énergie solaire
+- Wifi public gratuit couvrant l'ensemble de la place
+
+## Plan de mise en œuvre
+
+## Phasage des travaux",../inputs\projets\Réaménagement de la place du Marché.pdf,.pdf
+"## Plan de mise en œuvre
+
+## Phasage des travaux
+
+Pour minimiser l'impact sur l'activité commerciale, les travaux seront réalisés en trois phases distinctes :
+
+1. Phase 1 (3 mois) : Travaux préparatoires et réseaux souterrains
+2. Phase 2 (4 mois) : Aménagement de la partie nord (fontaine et espaces verts)
+3. Phase 3 (3 mois) : Aménagement de la partie sud et finalisation",../inputs\projets\Réaménagement de la place du Marché.pdf,.pdf
+"Pendant toute la durée des travaux, une solution temporaire sera mise en place pour maintenir le marché hebdomadaire sur un site alternatif à proximité.
+
+## Calendrier détaillé
+
+- Études finales et appels d'offres : octobre - décembre 2023
+
+- Début des travaux : janvier 2024
+
+- Fin de la phase 1 : mars 2024
+
+- Fin de la phase 2 : juillet 2024
+
+- Fin de la phase 3 : octobre 2024
+
+- Inauguration officielle : fin octobre 2024, coïncidant avec la fête traditionnelle locale
+
+## Parties prenantes et gouvernance",../inputs\projets\Réaménagement de la place du Marché.pdf,.pdf
+"## Parties prenantes et gouvernance
+
+- Service d'urbanisme : maîtrise d'ouvrage et coordination
+- Cabinet d'architectes-paysagistes : conception et suivi de réalisation
+- Association des commerçants : consultation et relais d'information
+- Conseil des habitants du centre-ville : représentation citoyenne
+- Commission patrimoine : veille sur la préservation de l'identité historique
+- Office de tourisme : intégration des aspects touristiques
+
+## Gestion des risques",../inputs\projets\Réaménagement de la place du Marché.pdf,.pdf
+"## Gestion des risques
+
+- Risques archéologiques : réalisation préalable de sondages
+- Dépassement budgétaire : provision de 10% pour imprévus
+- Impact sur l'activité commerciale : plan de communication et d'indemnisation
+- Conditions météorologiques défavorables : planification adaptée et marge temporelle
+
+## Dimension économique et commerciale Stratégie de revitalisation commerciale
+
+Le réaménagement sera accompagné d'un plan d'action pour dynamiser l'activité commerciale :",../inputs\projets\Réaménagement de la place du Marché.pdf,.pdf
+"- Refonte de l'organisation du marché hebdomadaire avec thématisation
+- Programme d'animation commerciale saisonnière
+- Incitations à l'installation de nouveaux commerces autour de la place
+- Création d'une identité visuelle et d'une charte pour les devantures commerciales
+- Développement d'une application mobile dédiée aux commerces du centre-ville
+
+## Analyse coûts-bénéfices
+
+L'investissement de 500 000 € générera des retombées économiques estimées à :",../inputs\projets\Réaménagement de la place du Marché.pdf,.pdf
+"- Augmentation des recettes fiscales commerciales de 8% dès la première année
+- Création directe et indirecte de 15 à 20 emplois locaux
+- Valorisation immobilière des bâtiments environnants de 5 à 10%
+- Augmentation de la fréquentation touristique de 15% en haute saison
+
+## Modèle de financement
+
+- Budget municipal : 300 000 € (60%)
+- Subvention régionale pour la revitalisation des centres-villes : 150 000 € (30%)
+- Partenariats privés et sponsors locaux : 50 000 € (10%)",../inputs\projets\Réaménagement de la place du Marché.pdf,.pdf
+"## Dimension sociale et culturelle
+
+## Programmation d'animations
+
+La place réaménagée deviendra un lieu d'animation permanent avec :
+
+- Marché hebdomadaire traditionnel revalorisé
+- Marchés thématiques mensuels (producteurs bio, artisanat local)
+- Programme culturel saisonnier (concerts, théâtre de rue, expositions)
+- Activités participatives intergénérationnelles
+- Événements festifs marquant les temps forts de l'année
+
+## Inclusion et accessibilité",../inputs\projets\Réaménagement de la place du Marché.pdf,.pdf
+"## Inclusion et accessibilité
+
+Une attention particulière sera portée à l'inclusion de tous les publics :
+
+- Accessibilité totale pour les personnes à mobilité réduite
+- Signalétique adaptée aux malvoyants
+- Aires de jeux intégrées pour les enfants
+- Zones de repos ombragées pour les personnes âgées
+- Tarification sociale pour certains événements
+
+## Impact sur la cohésion sociale
+
+## La nouvelle place favorisera :",../inputs\projets\Réaménagement de la place du Marché.pdf,.pdf
+"## La nouvelle place favorisera :
+
+- Les rencontres intergénérationnelles et interculturelles
+- L'appropriation positive de l'espace public
+- Le sentiment d'appartenance et de fierté locale
+- La participation citoyenne à la vie de la cité
+
+## Stratégie de communication
+
+## Communication avant et pendant les travaux",../inputs\projets\Réaménagement de la place du Marché.pdf,.pdf
+"## Communication avant et pendant les travaux
+
+- Réunions publiques d'information trimestrielles
+- Panneau d'information digital sur site avec avancement des travaux
+- Lettre d'information mensuelle aux riverains et commerçants
+- Visites guidées du chantier pour les écoles et associations
+- Reportages réguliers dans le journal municipal et médias locaux
+
+## Communication pour le lancement",../inputs\projets\Réaménagement de la place du Marché.pdf,.pdf
+"## Communication pour le lancement
+
+- Campagne ""Votre nouvelle place"" sur supports traditionnels et numériques
+- Documentation historique comparant l'évolution de la place au fil du temps
+- Concours photo ""Avant/Après"" avec participation citoyenne
+- Événement inaugural festif impliquant les acteurs locaux
+
+## Communication permanente",../inputs\projets\Réaménagement de la place du Marché.pdf,.pdf
+"## Communication permanente
+
+- Installation d'une borne interactive présentant l'histoire et les évolutions de la place
+- Signalétique intégrée racontant le patrimoine local
+- Programme trimestriel des animations diffusé largement
+- Présence active sur les réseaux sociaux avec hashtag dédié
+
+## Évaluation et suivi
+
+## Indicateurs de performance
+
+Des indicateurs précis seront suivis pour mesurer le succès du projet :",../inputs\projets\Réaménagement de la place du Marché.pdf,.pdf
+"- Fréquentation quotidienne et hebdomadaire
+- Nombre et diversité des commerces participants au marché
+- Chiffre d'affaires des commerces environnants
+- Taux d'occupation des terrasses et espaces commerciaux
+- Nombre et qualité des événements organisés
+- Satisfaction des usagers mesurée par enquêtes régulières
+
+## Gouvernance post-réalisation
+
+Un comité de place composé d'élus, commerçants, habitants et techniciens se réunira trimestriellement pour :",../inputs\projets\Réaménagement de la place du Marché.pdf,.pdf
+"- Analyser les indicateurs de performance
+- Proposer des ajustements éventuels
+- Programmer les animations et événements
+- Maintenir la dynamique participative
+
+## Conclusion",../inputs\projets\Réaménagement de la place du Marché.pdf,.pdf
+"Le réaménagement de la place du Marché constitue un projet structurant pour l'avenir de notre commune. Au-delà de la simple transformation physique d'un espace, il s'agit d'insuffler une nouvelle dynamique commerciale, sociale et culturelle au cœur de notre cité. Par sa conception inclusive et durable, cette place réinventée incarnera les valeurs de notre territoire tout en répondant aux défis contemporains de l'urbanisme",../inputs\projets\Réaménagement de la place du Marché.pdf,.pdf
+". Elle deviendra le symbole d'un centre-ville vivant, attractif et convivial où il fait bon vivre, se rencontrer et échanger.",../inputs\projets\Réaménagement de la place du Marché.pdf,.pdf
+"Type : Rapport d'étape Sujet : Suivi du projet de Centre Culturel Innovant Date : 10 juillet 2025
+
+## MAIRIE DE TRIFOUILLIS-SUR-LOIRE
+
+Rapport d'Étape - Mi-2025 Projet de Création du Centre Culturel Innovant (CCI)
+
+Date de publication : 10 juillet 2025 Période couverte : Janvier 2024 - Juin 2025 Rédacteur : Service Technique Municipal / Chargé de projet Grands Équipements
+
+## 1. Introduction et Rappel des Objectifs",../inputs\projets\Suivi du projet de Centre Culturel Innovant.pdf,.pdf
+Le présent rapport vise à informer le Conseil Municipal et les citoyens de Trifouillis-surLoire de l'état d'avancement du projet majeur de création du Centre Culturel Innovant (CCI),../inputs\projets\Suivi du projet de Centre Culturel Innovant.pdf,.pdf
+". Lancé officiellement début 2024 suite à la validation du projet (voir document Projet de Création du Centre Culturel Innovant.pdf), ce nouvel équipement a pour ambition de devenir un pôle d'attractivité majeur, offrant des espaces polyvalents dédiés à la création, la diffusion artistique, la lecture publique (médiathèque) et aux pratiques numériques. Ce point d'étape à mi-2025 permet d'évaluer le chemin parcouru, le respect du calendrier et du budget prévisionnel.",../inputs\projets\Suivi du projet de Centre Culturel Innovant.pdf,.pdf
+"## 2. Avancement des Travaux
+
+Depuis le premier coup de pioche en mars 2024, le chantier a progressé significativement :",../inputs\projets\Suivi du projet de Centre Culturel Innovant.pdf,.pdf
+"- Phase 1 - Gros Œuvre (Fondations, Murs, Charpente, Toiture) : Terminée en avril 2025. Cette phase a été réalisée conformément au planning initial, malgré des conditions météorologiques parfois difficiles durant l'hiver 2024-2025. L'étape ""clos et couvert"" a été atteinte avec succès.
+- Phase 2 - Second Œuvre (Cloisons, Isolation, Menuiseries extérieures, Réseaux fluides et électriques) : En cours. Estimée à 60% d'achèvement à fin juin 2025.",../inputs\projets\Suivi du projet de Centre Culturel Innovant.pdf,.pdf
+"- o Les cloisons intérieures sont majoritairement posées, définissant les futurs espaces (salle de spectacle, médiathèque, ateliers, hall d'accueil).
+- o Les travaux de plomberie et d'électricité sont bien avancés.
+- o La pose des menuiseries extérieures (fenêtres, portes-fenêtres) est en cours de finalisation.",../inputs\projets\Suivi du projet de Centre Culturel Innovant.pdf,.pdf
+"- Aménagements Extérieurs (Voirie, Réseaux Divers, Espaces verts) : Les études techniques sont finalisées. Les appels d'offres pour la réalisation sont en cours de lancement. Le début des travaux est prévu pour septembre 2025.",../inputs\projets\Suivi du projet de Centre Culturel Innovant.pdf,.pdf
+## 3. Suivi Budgétaire,../inputs\projets\Suivi du projet de Centre Culturel Innovant.pdf,.pdf
+"- Budget Initial Global (voté en 2023) : 3 500 000 € HT
+- Dépenses Engagées au 30/06/2025 : 2 150 000 € HT (soit 61.4% du budget initial)
+- Analyse : Les dépenses sont globalement conformes au prévisionnel. Une légère augmentation (+3%) a été constatée sur le lot ""Fondations spéciales"" en raison de la nature du sol nécessitant des renforcements non anticipés dans l'étude initiale. Cette augmentation a été compensée par des économies réalisées sur le lot ""Charpente"".",../inputs\projets\Suivi du projet de Centre Culturel Innovant.pdf,.pdf
+"- Estimation du Coût Final Révisé : Maintenu à 3 550 000 € HT (+1.4%), sous réserve des résultats des appels d'offres pour les lots restants (équipements scéniques, mobilier, aménagements extérieurs).",../inputs\projets\Suivi du projet de Centre Culturel Innovant.pdf,.pdf
+## 4. Prochains Jalons Prévisionnels,../inputs\projets\Suivi du projet de Centre Culturel Innovant.pdf,.pdf
+"- Octobre 2025 : Finalisation du Second Œuvre (hors finitions).
+- Novembre 2025 : Choix des entreprises pour les lots ""Équipements scéniques"", ""Mobilier"", et ""Signalétique"".
+- Septembre 2025 - Mars 2026 : Réalisation des Aménagements Extérieurs.
+- Janvier - Avril 2026 : Travaux de finition intérieure (peintures, sols), installation des équipements.
+- Mai 2026 : Réception prévisionnelle du bâtiment.
+- Juin / Septembre 2026 : Inauguration officielle et ouverture au public (date à affiner).",../inputs\projets\Suivi du projet de Centre Culturel Innovant.pdf,.pdf
+"## 5. Points de Vigilance / Risques Identifiés
+
+- Délais d'approvisionnement : Certains matériaux spécifiques (équipements scéniques, composants électroniques) font l'objet de tensions sur le marché mondial. Des commandes anticipées sont prévues.
+- Coordination : La phase de finition et d'équipement nécessitera une coordination accrue entre les différents corps de métier.
+- Conditions météorologiques : Un hiver 2025-2026 rigoureux pourrait impacter le planning des aménagements extérieurs.",../inputs\projets\Suivi du projet de Centre Culturel Innovant.pdf,.pdf
+"## 6. Conclusion
+
+À mi-parcours 2025, le projet de Centre Culturel Innovant de Trifouillis-sur-Loire progresse de manière satisfaisante. Malgré quelques ajustements mineurs, le calendrier général et le budget restent maîtrisés. Les prochains mois seront cruciaux avec le lancement des phases d'équipement et d'aménagement extérieur. La mobilisation des services municipaux et des entreprises partenaires reste entière pour livrer cet équipement structurant pour notre commune au printemps 2026.",../inputs\projets\Suivi du projet de Centre Culturel Innovant.pdf,.pdf
+"## Fait à Trifouillis-sur-Loire, le 10 juillet 2025 Le Maire, [Nom du Maire] Le Responsable des Services Techniques, [Nom du Responsable]",../inputs\projets\Suivi du projet de Centre Culturel Innovant.pdf,.pdf
+"Chertrifouillesse, chertrifoulesse, est avec une grande émotion, et n'immense hierter, que je me tiens devant vous ce soir, pour vous adresser mes vœux, les plus sincères en ce début d'année. L'année écoulée a été marquée par de nombreux défis",../inputs\communication\voeux2025_trifouillis.wav,.wav
+". L'année écoulée a été marquée par de nombreux défis. Mais aussi, par de belles avancées, pour notre commune, nous ne pouvons ignorer le contexte régionale et national, qui demeure, complesse et parfois, source d'acquétude, les pays de la loi traversent une période de tension économique et sociale et nous sommes pleinement conscient des préoccupations qui peuvent être les vôtres",../inputs\communication\voeux2025_trifouillis.wav,.wav
+". Mais je veux vous dire ici, avec force et conviction, nous sommes unif solidaire et nous avons en nous toutes les ressources pour faire face aux épreuves, trifoulis sur l'oi, à toujours suscère, relevé et avancé. Il ne fera pas exception, je sais que la fermeture de notre garde à susciter de vivre, inquétu, et je comprend votre attachement à ce service de transport et sa tiel",../inputs\communication\voeux2025_trifouillis.wav,.wav
+". Mais le loin de voir cela, comme une régression, nous avons souhaité en faire une opportunité pour notre ville des sept années, trifouillis sur l'oi, ce dotera d'une flotte de bus, électrique moderne et accessible, permettant de relier efficacement notre commune au poil de transport, régionaux nous avons travaillé de main dans la main, avec la région et les autorités de transport pour garantir une solution, fiable et adaptée aux besoins de chacun, soit liés assurés, que nous continuerons à ouvrir pour",../inputs\communication\voeux2025_trifouillis.wav,.wav
+"chacun, soit liés assurés, que nous continuerons à ouvrir pour améliorer la mobilité et l'accessibilité de notre territoire au-delà de cette transition",../inputs\communication\voeux2025_trifouillis.wav,.wav
+". Ce sera une année placée sous le signe de l'Inaudation et du développement durable. Nous poursuivrons un trangagement en faveur de l'écologie avec de nouveaux projets d'amèagement verban de préservation de notre patrimoine naturel et de soutien aux initiatives, locales jettiens également à saluer l'engagement de nos associations, de nos commerçants, de nos artisans et de toutes celles, et ceux qui participent taltivement à la vie de notre commune trifouillis sur l'oi",../inputs\communication\voeux2025_trifouillis.wav,.wav
+". C'est avant toute une communauté soudée, forte de son histoire et tournée vers l'avenir. Ce début d'année, je veux vous arrêter un message de timisme et d'espoir ensemble, nous continuerons à bâtir une ville plus dynamique, plus soïdère et plus durable je vous souhaite à toutes et à tous une très belle année, remplie de santé de bonheur et de réussite vives, trifouillis sur l'oi, vive notre belle région et vive la République.",../inputs\communication\voeux2025_trifouillis.wav,.wav
