@@ -2,9 +2,16 @@
 import streamlit as st 
 from MistralChat import ask_question_with_mistral  # Assuming the file is renamed or as provided
 import os
-from dotenv import load_dotenv
 
-load_dotenv()  # Load environment variables if needed
+import os
+try:
+    from dotenv import load_dotenv
+    load_dotenv()  # Pour le développement local
+except ImportError:
+    pass  # Streamlit Cloud utilise ses propres secrets
+
+# Récupérer la clé
+MISTRAL_API_KEY = os.getenv("MISTRAL_API_KEY") or st.secrets.get("MISTRAL_API_KEY")
 
 st.set_page_config(page_title="Assistant Municipal", page_icon="🏛️")
 st.title("🏛️ Assistant Municipal de Triffouillis-sur-Loire")

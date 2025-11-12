@@ -1,13 +1,17 @@
 # rag_mistral.py
 import os
-from dotenv import load_dotenv
 from langchain_mistralai import ChatMistralAI
 from langchain_core.prompts import ChatPromptTemplate
 from langchain_core.output_parsers import StrOutputParser
 from utils.semantique_search import retrieve_relevant_chunks
 from langchain_core.callbacks import StreamingStdOutCallbackHandler
 
-load_dotenv()
+try:
+    from dotenv import load_dotenv
+    load_dotenv()
+except ImportError:
+    pass  
+
 MISTRAL_API_KEY = os.getenv("MISTRAL_API_KEY")
 if not MISTRAL_API_KEY:
     raise ValueError(" Clé API Mistral non trouvée. Vérifie le fichier .env")
